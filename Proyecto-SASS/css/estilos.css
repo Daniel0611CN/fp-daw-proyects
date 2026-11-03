@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  background: linear-gradient(to right, #fe6762, #ff8e64);
+}
+
+#container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 100vh;
+  background: white;
+}
+@media only screen and (max-width: 480px) {
+  #container {
+    height: 200vh;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  #container {
+    height: 150vh;
+  }
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+#nav1 {
+  background: #3c4ead;
+  text-align: center;
+}
+#nav1 ul li {
+  list-style: none;
+  padding: 15px 0 15px 0;
+}
+#nav1 ul li:hover {
+  background-color: #1b2670;
+}
+@media only screen and (min-width: 769px) {
+  #nav1 ul {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+  }
+  #nav1 ul li {
+    justify-content: center;
+    width: 100%;
+    padding: 15px 25px 15px 25px;
+  }
+}
+
+#nav2 {
+  background: #3c4ead;
+  text-align: center;
+}
+#nav2 ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#nav2 ul li {
+  list-style: none;
+}
+#nav2 ul li i {
+  margin-right: 10px;
+  font-size: 32px;
+}
+#nav2 ul li p {
+  font-size: 12px;
+  margin-left: 45px;
+}
+#nav2 ul li:hover {
+  background: #1b2670;
+}
+#nav2 #l1 p {
+  margin-left: 75px;
+}
+@media only screen and (max-width: 480px) {
+  #nav2 ul li {
+    flex: 1 1 100%;
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  #nav2 ul li {
+    flex: 1 1 50%;
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+  }
+}
+@media only screen and (min-width: 769px) {
+  #nav2 ul li {
+    flex: 1 1 20%;
+    padding: 10px 35px 10px 35px;
+    font-size: 20px;
+  }
+  #nav2 ul li i {
+    margin-right: 20px;
+  }
+  #nav2 ul li p {
+    margin-left: 55px;
+  }
+  #nav2 #l1 p {
+    margin-left: 90px;
+  }
+  #nav2 #l3 p {
+    margin-left: 42px;
+  }
+}
+
+#nav3 {
+  display: flex;
+  background: #3c4ead;
+}
+#nav3 ul {
+  width: 100%;
+}
+#nav3 ul li {
+  padding: 10px;
+  list-style: none;
+}
+#nav3 ul li:hover {
+  background: #1b2670;
+}
+#nav3 ul li h4 {
+  font-weight: 400;
+  padding-left: 20px;
+}
+#nav3 ul li ul {
+  margin-top: 10px;
+}
+#nav3 ul li ul li:hover {
+  background: #fe6762;
+}
+@media only screen and (min-width: 769px) {
+  #nav3 ul {
+    display: flex;
+    flex: 1 1 100%;
+    justify-content: space-between;
+  }
+  #nav3 ul li {
+    padding: 0;
+    position: relative;
+    padding: 15px 0 15px 0;
+    font-size: large;
+    width: 100%;
+  }
+  #nav3 ul li:hover #subul {
+    display: block;
+  }
+  #nav3 ul li ul {
+    display: none;
+    position: absolute;
+    margin-top: 15px;
+    background: #1b2670;
+    width: 100%;
+    z-index: 10;
+  }
+  #nav3 ul li ul li {
+    padding: 15px 0 15px 0;
+  }
+}
+
+#nav4 {
+  display: flex;
+  background: #3c4ead;
+  justify-content: flex-end;
+}
+#nav4 ul {
+  display: flex;
+}
+#nav4 ul li {
+  list-style: none;
+  padding: 15px;
+}
+#nav4 ul li:hover {
+  background: #1b2670;
+}
+
+#nav5 {
+  display: flex;
+  background: #3c4ead;
+}
+@media only screen and (min-width: 769px) {
+  #nav5 #txt {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+  }
+  #nav5 #txt li {
+    padding: 15px;
+    width: 100%;
+    list-style: none;
+  }
+  #nav5 #txt li:hover {
+    background: #1b2670;
+  }
+  #nav5 #vacio {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+  }
+  #nav5 #img {
+    display: flex;
+    justify-content: space-between;
+    width: 23%;
+  }
+  #nav5 #img li {
+    list-style: none;
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+  }
+  #nav5 #img li:hover {
+    background: #1b2670;
+  }
+}/*# sourceMappingURL=estilos.css.map */

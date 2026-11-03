@@ -1,0 +1,15 @@
+/****** RESETEO DE PROPIEDADES ******/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline; /* Si añadimos imagenes entre textos, solventa la alineación */
+}
+img, picture, video, iframe, figure{
+    max-width: 100%; /* Que la imagen o vídeo nunca sea más grande que la etiqueta contenedora */
+    width: 100%; /* Las imagenes pequeñas se adaptan al tamaño de la caja contenedora */
+    display: block; /* Solventa los espacion estre imagenes (que es inline-block por defecto) */
+    /*opcional*/ object-fit: cover; /* En el caso de poner altura a una imagen hace que se escale */
+    /*opcional*/ object-position: center center; /*  */
+}

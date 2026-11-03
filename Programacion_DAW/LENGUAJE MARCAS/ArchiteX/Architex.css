@@ -1,0 +1,173 @@
+/*** Reseteo de Propiedades ***/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;/*** Esto es para que si hay padding y border se incluya dentro del calculo (no se salga si pongo el % ajustado sin tener que tener en cuenta bordes)***/
+}
+
+/************ LAYOUT  *************/
+/************************ display/position/float **********************/
+nav li{
+    display: inline-block;
+}
+header{
+    position: relative;
+}
+#logo { /* imagen header */
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+aside, #principal {  /*Propiedades comunes a ASIDE y SECTION Principal*/
+    position: relative;
+    display: inline-block;
+}
+#principal { /*SECTION CON 2 ARTICULOS*/
+    float: right;
+}
+footer{
+    position: relative;
+}
+footer section {
+    float: left;
+    top: 180px;
+}
+
+
+/****************** height/width/padding/border/margin *******************/
+
+body {
+    margin: 6px 2%;
+}
+nav {
+    height: 60px;
+    padding: 1% 0%;
+    max-width: 1280px;
+    min-width: 1080px;
+    margin: auto;
+}
+nav li {
+    margin: 0px 2%;
+    /* padding: 0; */
+}
+main{
+    margin: auto;
+    max-width: 1280px;
+    min-width: 1080px;
+}
+header {
+    height: 199px;
+    max-width: 100%;
+    margin-top: 1%;
+    padding: 3%;
+}
+header h1{
+    margin: 1%;
+}
+header p{
+    width: 60%;
+}
+aside {
+    width: 29%;
+    padding: .8%;
+}
+aside section{
+    padding: 2%;
+}
+section ul{ /* DESPLAZA LOS UL-LI-A PARA ENCUADRAR CON EL H */
+    padding-left: 6%;
+}
+#parteCentral{  /*CAJA QUE ENGLOBA ASIDE Y SECTION principal*/
+    clear: both;
+    padding: 1% 2%;
+}
+#principal { /*SECTION CON 2 ARTICULOS*/
+    width: 68%;
+    left: 0;
+}
+#principal article{
+    padding: 1% 2% 1% 0;
+    margin: auto;
+}
+#principal p{
+    margin-bottom: 2%;
+}
+footer {
+    clear: left; 
+    min-height: 150px;
+    padding: 2%;
+    background: #d2e1f6 ;
+}
+footer section {
+    width: 24%;
+}
+
+/************************* Propiedades Generales *********************/
+a{  /*a:link, a:visited, a:active*/
+    text-decoration: none;
+    color: #1f4677;
+    
+}
+nav ul{ /* Solo para el NAV, dejamos los demas con el punto*/
+    list-style-type: none;
+    font-weight: bold;
+}
+h4 {
+    font-size: large;
+}
+h2 {
+    color: #1f4677;
+}
+h2, h3, h4{
+    margin-bottom: 4%;
+}
+
+
+/********* BODY *********/
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #1f4677;
+}
+
+
+
+/********* NAV **********/
+nav{
+    text-align: center;
+    background-image: url(images/bluePrintPaper.png);
+    position: sticky;
+}  
+nav li{
+    font-size: 160%;
+}
+
+/*** HEADER ***/
+header {
+    background: #d2e1f6 ;
+}
+
+
+/******** CAJA CENTRAL *********/  /*Engloba ASIDE Y SECTION principal*/
+#parteCentral{  
+    background: #ffffff;
+}
+
+/*** ASIDE ***/
+aside {
+    border-right: solid 6px #1f4677 ;
+    background: #ffffff;
+}
+
+/*** SECTION ***/
+#principal { /*SECTION CON 2 ARTICULOS*/
+    background: #ffffff;
+}
+
+
+/******** FOOTER *********/
+footer {
+    background: #d2e1f6 ;
+}
+footer section {
+    text-align: left;
+}

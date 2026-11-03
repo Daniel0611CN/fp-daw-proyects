@@ -1,0 +1,28 @@
+<div id="paginador" hx-swap-oob="true" class="flex flex-row items-center h-16">
+    <div class="basis-1/2">
+        <p class="text-sm text-gray-700">
+            Mostrando de fila
+            <span class="font-medium" th:text="${pagina.inicioRangoDePagina}"></span>
+            a
+            <span class="font-medium" th:text="${pagina.finalRangoDePagina}"></span>
+            de
+            <span class="font-medium" th:text="${pagina.totalElementos}"></span>
+            resultados
+        </p>
+    </div>
+    <div class="basis-1/2 shadow-xs flex justify-end">
+
+            <a th:if="${pagina.numeroDePaginaPrevia > 0}" hx-target="#pagina" th:hx-get="@{/htmx/fabricantes/pagina(numPag=${pagina.numeroDePaginaPrevia},tamPag=${pagina.tamanio})}" class="cursor-pointer items-center rounded-l-md px-2 py-2 text-gray-400">
+                Previo
+            </a>
+            <a href="#" aria-current="page" class="cursor-pointer items-center bg-indigo-600 px-4 py-2 text-sm font-semibold text-white"
+               hx-target="#pagina"
+               th:hx-get="@{/htmx/fabricantes/pagina(numPag=${pagina.numeroDePagina},tamPag=${pagina.tamanio})}"
+               th:text="${pagina.numeroDePagina}"></a>
+            <a th:if="${pagina.numeroDePaginaSiguiente <= pagina.numeroTotalDePaginas}"
+               hx-target="#pagina"
+               th:hx-get="@{/htmx/fabricantes/pagina(numPag=${pagina.numeroDePaginaSiguiente},tamPag=${pagina.tamanio})}" class="cursor-pointer items-center rounded-l-md px-2 py-2 text-gray-400">
+                Siguiente
+            </a>
+    </div>
+</div>

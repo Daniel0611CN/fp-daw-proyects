@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DemoTH5</title>
+</head>
+<body>
+<a href="/login">Login</a> <!-- Ejemplo 1 -->
+<a th:href="@{/registrar}" >Registrar</a> <!-- Ejemplo 2 -->
+<br/>
+<br/>
+<!--
+    QUERY PARAMs
+    Si se trabaja con urls, o direcciones,
+    emplear el evaluador de direcciones que es @{}
+-->
+<a th:href="@{/libros(id=${libro.id},titulo=${libro.titulo})}" th:text="'Ver libro: '+${libro.titulo}">Ver libro</a>
+<br/>
+<br/>
+<a th:href="@{/libros/{id}/editar(id=${libro.id})}" th:text="'Editar libro: '+${libro.titulo}">Editar libro</a>
+
+</body>
+</html>

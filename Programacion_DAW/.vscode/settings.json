@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/hector/Documentos/mysql-connector-j-8.0.32.jar",
+        "/home/hector/Documentos/Bases_Datos_SQL/CRUD_EJEMPLO/CRUD/lib/mysql-connector-j-8.0.32.jar"
+    ]
+}

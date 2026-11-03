@@ -1,0 +1,11 @@
+
+Juan Pérez(cod:1): 69.87€
+María García(cod:2): 0.0€
+Pedro López(cod:3): 0.0€
+Ana Martínez(cod:4): 0.0€
+Javier Fernández(cod:5): 0.0€
+Juan Perez(cod:123): 152.97€
+Maria Rodriguez(cod:456): 294.93999999999994€
+Ana Martinez(cod:789): 85.96€
+Pablo Gomez(cod:321): 87.96€
+Sofia Fernandez(cod:654): 69.87€

@@ -1,0 +1,15 @@
+<div class="col">
+  <div class="card animated fadeIn fast">
+    <img class="card-img-top img-fluid" [src]="heroe.img"  [alt]="heroe.nombre">
+    <div class="card-body">
+      <h5 class="card-title">{{ heroe.nombre }}</h5>
+      <p class="card-text">{{ heroe.bio }}</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-body-secondary">{{ heroe.aparicion }}</small>
+      <br>
+      <button (click)="verHeroe()" type="button" class="btn btn-outline-primary mt-2 w-100">Ver más...</button>
+      <!--        <a [routerLink]="['/heroe', i+1]" class="btn btn-outline-primary mt-2 w-100">Ver más link...</a>-->
+    </div>
+  </div>
+</div>

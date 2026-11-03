@@ -1,0 +1,258 @@
+@import "variables.scss";
+@import "mixins.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  background: linear-gradient(to right, #fe6762, #ff8e64);
+}
+
+#container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 100vh;
+  background: white;
+  @include movil {
+    height: 200vh;
+  }
+  @include tablet {
+    height: 150vh;
+  }
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+#nav1 {
+  background: #3c4ead;
+  text-align: center;
+
+  ul li {
+    list-style: none;
+    padding: 15px 0 15px 0;
+    &:hover {
+      background-color: #1b2670;
+    }
+  }
+
+  @include ordenador {
+    ul {
+      justify-content: space-between;
+      display: flex;
+      flex-direction: row;
+      li {
+        justify-content: center;
+        width: 100%;
+        padding: 15px 25px 15px 25px;
+      }
+    }
+  }
+}
+
+#nav2 {
+  background: #3c4ead;
+  text-align: center;
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  ul li {
+    list-style: none;
+    i {
+      margin-right: 10px;
+      font-size: 32px;
+    }
+    p {
+      font-size: 12px;
+      margin-left: 45px;
+    }
+    &:hover {
+      background: #1b2670;
+    }
+  }
+
+  #l1 {
+    p {
+      margin-left: 75px;
+    }
+  }
+
+  @include movil {
+    ul {
+      li {
+        flex: 1 1 100%;
+        padding: 10px 0 10px 0;
+        font-size: 20px;
+      }
+    }
+  }
+  @include tablet {
+    ul {
+      li {
+        flex: 1 1 50%;
+        padding: 10px 0 10px 0;
+        font-size: 20px;
+      }
+    }
+  }
+  @include ordenador {
+    ul li {
+      flex: 1 1 20%;
+      padding: 10px 35px 10px 35px;
+      font-size: 20px;
+      i {
+        margin-right: 20px;
+      }
+      p {
+        margin-left: 55px;
+      }
+    }
+    #l1 {
+      p {
+        margin-left: 90px;
+      }
+    }
+    #l3 {
+      p {
+        margin-left: 42px;
+      }
+    }
+  }
+}
+
+#nav3 {
+  display: flex;
+  background: #3c4ead;
+
+  ul {
+    width: 100%;
+    li {
+      padding: 10px;
+      list-style: none;
+      &:hover {
+        background: #1b2670;
+      }
+      h4 {
+        font-weight: 400;
+        padding-left: 20px;
+      }
+      ul {
+        margin-top: 10px;
+        li {
+          &:hover {
+            background: #fe6762;
+          }
+        }
+      }
+    }
+  }
+
+  @include ordenador {
+    ul {
+      display: flex;
+      flex: 1 1 100%;
+      justify-content: space-between;
+      li {
+        padding: 0;
+        position: relative;
+        padding: 15px 0 15px 0;
+        font-size: large;
+        width: 100%;
+        &:hover {
+          #subul {
+            display: block;
+          }
+        }
+        ul {
+          display: none;
+          position: absolute;
+          margin-top: 15px;
+          background: #1b2670;
+          width: 100%;
+          z-index: 10;
+          li {
+            padding: 15px 0 15px 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+#nav4 {
+  display: flex;
+  background: #3c4ead;
+  justify-content: flex-end;
+
+  ul {
+    display: flex;
+    li {
+      list-style: none;
+      padding: 15px;
+      &:hover {
+        background: #1b2670;
+      }
+    }
+  }
+}
+
+#nav5 {
+  display: flex;
+  background: #3c4ead;
+
+  @include movil {
+  }
+
+  @include tablet {
+  }
+
+  @include ordenador {
+    #txt {
+      display: flex;
+      justify-content: space-between;
+      width: 50%;
+      li {
+        padding: 15px;
+        width: 100%;
+        list-style: none;
+        &:hover {
+          background: #1b2670;
+        }
+      }
+    }
+
+    #vacio {
+      display: flex;
+      justify-content: space-between;
+      width: 30%;
+    }
+
+    #img {
+      display: flex;
+      justify-content: space-between;
+      width: 23%;
+      li {
+        list-style: none;
+        padding: 15px;
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+        &:hover {
+          background: #1b2670;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>DemoTH4</title>
+    <style>
+
+    </style>
+</head>
+<body>
+<!--
+    Aquí lo que hace es envolver el div en un objeto libro, entonces lo que hace es directamente
+    en los span, poner '*', para reemplazar a libro, lo que debería ser ${libro.titulo}, se
+    simplifica en *{titulo}.
+
+    OJO -> ESTO NO SE PUEDE APLICAR FUERA DEL DIV, YA QUE ES AQUÍ DONDE SE HACE REFERENCIA A ESE OBJETO.
+-->
+<div th:object="${libro}">
+    <span th:text="'Título: '+*{titulo}"></span>
+    <br/>
+    <span th:text="'Autor: '+*{autor}"></span>
+</div>
+</body>
+</html>

@@ -1,0 +1,2635 @@
+[Alameda (1996) : 4960
+, Alameda (1998) : 4961
+, Alameda (1999) : 4947
+, Alameda (2000) : 5002
+, Alameda (2001) : 5008
+, Alameda (2002) : 5017
+, Alameda (2003) : 5066
+, Alameda (2004) : 5161
+, Alameda (2005) : 5245
+, Alameda (2006) : 5314
+, Alameda (2007) : 5367
+, Alameda (2008) : 5426
+, Alameda (2009) : 5481
+, Alameda (2010) : 5486
+, Alameda (2011) : 5471
+, Alameda (2012) : 5504
+, Alameda (2013) : 5455
+, Alameda (2014) : 5403
+, Alameda (2015) : 5403
+, Alameda (2016) : 5390
+, Alameda (2017) : 5384
+, Alameda (2018) : 5366
+, Alameda (2019) : 5372
+, Alameda (2020) : 5387
+, Alameda (2021) : 5453
+, Alameda (2022) : 5451
+, Alcaucín (1996) : 1484
+, Alcaucín (1998) : 1509
+, Alcaucín (1999) : 1499
+, Alcaucín (2000) : 1511
+, Alcaucín (2001) : 1534
+, Alcaucín (2002) : 1557
+, Alcaucín (2003) : 1599
+, Alcaucín (2004) : 1651
+, Alcaucín (2005) : 1917
+, Alcaucín (2006) : 2086
+, Alcaucín (2007) : 2286
+, Alcaucín (2008) : 2469
+, Alcaucín (2009) : 2576
+, Alcaucín (2010) : 2668
+, Alcaucín (2011) : 2753
+, Alcaucín (2012) : 2817
+, Alcaucín (2013) : 2832
+, Alcaucín (2014) : 2454
+, Alcaucín (2015) : 2375
+, Alcaucín (2016) : 2272
+, Alcaucín (2017) : 2253
+, Alcaucín (2018) : 2239
+, Alcaucín (2019) : 2230
+, Alcaucín (2020) : 2279
+, Alcaucín (2021) : 2366
+, Alcaucín (2022) : 2487
+, Alfarnate (1996) : 1447
+, Alfarnate (1998) : 1451
+, Alfarnate (1999) : 1431
+, Alfarnate (2000) : 1443
+, Alfarnate (2001) : 1429
+, Alfarnate (2002) : 1430
+, Alfarnate (2003) : 1401
+, Alfarnate (2004) : 1413
+, Alfarnate (2005) : 1398
+, Alfarnate (2006) : 1386
+, Alfarnate (2007) : 1365
+, Alfarnate (2008) : 1362
+, Alfarnate (2009) : 1348
+, Alfarnate (2010) : 1338
+, Alfarnate (2011) : 1323
+, Alfarnate (2012) : 1300
+, Alfarnate (2013) : 1240
+, Alfarnate (2014) : 1198
+, Alfarnate (2015) : 1159
+, Alfarnate (2016) : 1135
+, Alfarnate (2017) : 1113
+, Alfarnate (2018) : 1105
+, Alfarnate (2019) : 1069
+, Alfarnate (2020) : 1065
+, Alfarnate (2021) : 1057
+, Alfarnate (2022) : 1039
+, Alfarnatejo (1996) : 422
+, Alfarnatejo (1998) : 405
+, Alfarnatejo (1999) : 408
+, Alfarnatejo (2000) : 399
+, Alfarnatejo (2001) : 392
+, Alfarnatejo (2002) : 388
+, Alfarnatejo (2003) : 387
+, Alfarnatejo (2004) : 394
+, Alfarnatejo (2005) : 404
+, Alfarnatejo (2006) : 448
+, Alfarnatejo (2007) : 478
+, Alfarnatejo (2008) : 516
+, Alfarnatejo (2009) : 538
+, Alfarnatejo (2010) : 543
+, Alfarnatejo (2011) : 546
+, Alfarnatejo (2012) : 532
+, Alfarnatejo (2013) : 515
+, Alfarnatejo (2014) : 477
+, Alfarnatejo (2015) : 463
+, Alfarnatejo (2016) : 405
+, Alfarnatejo (2017) : 397
+, Alfarnatejo (2018) : 394
+, Alfarnatejo (2019) : 377
+, Alfarnatejo (2020) : 364
+, Alfarnatejo (2021) : 358
+, Alfarnatejo (2022) : 364
+, Algarrobo (1996) : 4735
+, Algarrobo (1998) : 4794
+, Algarrobo (1999) : 4861
+, Algarrobo (2000) : 4852
+, Algarrobo (2001) : 4844
+, Algarrobo (2002) : 4823
+, Algarrobo (2003) : 4862
+, Algarrobo (2004) : 4979
+, Algarrobo (2005) : 5275
+, Algarrobo (2006) : 5668
+, Algarrobo (2007) : 5907
+, Algarrobo (2008) : 6144
+, Algarrobo (2009) : 6219
+, Algarrobo (2010) : 6350
+, Algarrobo (2011) : 6539
+, Algarrobo (2012) : 6584
+, Algarrobo (2013) : 6601
+, Algarrobo (2014) : 6103
+, Algarrobo (2015) : 6013
+, Algarrobo (2016) : 6232
+, Algarrobo (2017) : 6284
+, Algarrobo (2018) : 6367
+, Algarrobo (2019) : 6444
+, Algarrobo (2020) : 6556
+, Algarrobo (2021) : 6551
+, Algarrobo (2022) : 6625
+, Algatocín (1996) : 1014
+, Algatocín (1998) : 972
+, Algatocín (1999) : 947
+, Algatocín (2000) : 949
+, Algatocín (2001) : 962
+, Algatocín (2002) : 965
+, Algatocín (2003) : 954
+, Algatocín (2004) : 944
+, Algatocín (2005) : 951
+, Algatocín (2006) : 942
+, Algatocín (2007) : 936
+, Algatocín (2008) : 929
+, Algatocín (2009) : 909
+, Algatocín (2010) : 937
+, Algatocín (2011) : 904
+, Algatocín (2012) : 887
+, Algatocín (2013) : 866
+, Algatocín (2014) : 844
+, Algatocín (2015) : 834
+, Algatocín (2016) : 795
+, Algatocín (2017) : 778
+, Algatocín (2018) : 778
+, Algatocín (2019) : 793
+, Algatocín (2020) : 814
+, Algatocín (2021) : 825
+, Algatocín (2022) : 826
+, Alhaurín de la Torre (1996) : 16914
+, Alhaurín de la Torre (1998) : 19024
+, Alhaurín de la Torre (1999) : 20192
+, Alhaurín de la Torre (2000) : 21649
+, Alhaurín de la Torre (2001) : 22654
+, Alhaurín de la Torre (2002) : 23774
+, Alhaurín de la Torre (2003) : 25401
+, Alhaurín de la Torre (2004) : 26764
+, Alhaurín de la Torre (2005) : 28509
+, Alhaurín de la Torre (2006) : 30281
+, Alhaurín de la Torre (2007) : 31884
+, Alhaurín de la Torre (2008) : 33567
+, Alhaurín de la Torre (2009) : 35114
+, Alhaurín de la Torre (2010) : 35832
+, Alhaurín de la Torre (2011) : 36730
+, Alhaurín de la Torre (2012) : 37446
+, Alhaurín de la Torre (2013) : 38067
+, Alhaurín de la Torre (2014) : 38300
+, Alhaurín de la Torre (2015) : 38523
+, Alhaurín de la Torre (2016) : 38794
+, Alhaurín de la Torre (2017) : 39153
+, Alhaurín de la Torre (2018) : 39911
+, Alhaurín de la Torre (2019) : 40345
+, Alhaurín de la Torre (2020) : 41170
+, Alhaurín de la Torre (2021) : 41868
+, Alhaurín de la Torre (2022) : 42531
+, Alhaurín el Grande (1996) : 16859
+, Alhaurín el Grande (1998) : 16838
+, Alhaurín el Grande (1999) : 16870
+, Alhaurín el Grande (2000) : 17021
+, Alhaurín el Grande (2001) : 17488
+, Alhaurín el Grande (2002) : 17941
+, Alhaurín el Grande (2003) : 18797
+, Alhaurín el Grande (2004) : 19324
+, Alhaurín el Grande (2005) : 20074
+, Alhaurín el Grande (2006) : 21070
+, Alhaurín el Grande (2007) : 21776
+, Alhaurín el Grande (2008) : 22785
+, Alhaurín el Grande (2009) : 23319
+, Alhaurín el Grande (2010) : 23675
+, Alhaurín el Grande (2011) : 23807
+, Alhaurín el Grande (2012) : 24074
+, Alhaurín el Grande (2013) : 24249
+, Alhaurín el Grande (2014) : 24210
+, Alhaurín el Grande (2015) : 24338
+, Alhaurín el Grande (2016) : 24315
+, Alhaurín el Grande (2017) : 24720
+, Alhaurín el Grande (2018) : 24123
+, Alhaurín el Grande (2019) : 24705
+, Alhaurín el Grande (2020) : 25358
+, Alhaurín el Grande (2021) : 26095
+, Alhaurín el Grande (2022) : 26436
+, Almargen (1996) : 2146
+, Almargen (1998) : 2145
+, Almargen (1999) : 2145
+, Almargen (2000) : 2104
+, Almargen (2001) : 2084
+, Almargen (2002) : 2072
+, Almargen (2003) : 2096
+, Almargen (2004) : 2074
+, Almargen (2005) : 2106
+, Almargen (2006) : 2118
+, Almargen (2007) : 2114
+, Almargen (2008) : 2153
+, Almargen (2009) : 2154
+, Almargen (2010) : 2137
+, Almargen (2011) : 2136
+, Almargen (2012) : 2157
+, Almargen (2013) : 2045
+, Almargen (2014) : 2122
+, Almargen (2015) : 2081
+, Almargen (2016) : 2046
+, Almargen (2017) : 2004
+, Almargen (2018) : 1984
+, Almargen (2019) : 1954
+, Almargen (2020) : 1947
+, Almargen (2021) : 1944
+, Almargen (2022) : 1927
+, Almogía (1996) : 4263
+, Almogía (1998) : 4159
+, Almogía (1999) : 4119
+, Almogía (2000) : 4072
+, Almogía (2001) : 4093
+, Almogía (2002) : 4108
+, Almogía (2003) : 4269
+, Almogía (2004) : 4244
+, Almogía (2005) : 4313
+, Almogía (2006) : 4309
+, Almogía (2007) : 4299
+, Almogía (2008) : 4316
+, Almogía (2009) : 4298
+, Almogía (2010) : 4257
+, Almogía (2011) : 4221
+, Almogía (2012) : 4195
+, Almogía (2013) : 4168
+, Almogía (2014) : 3906
+, Almogía (2015) : 3826
+, Almogía (2016) : 3786
+, Almogía (2017) : 3765
+, Almogía (2018) : 3770
+, Almogía (2019) : 3715
+, Almogía (2020) : 3792
+, Almogía (2021) : 3859
+, Almogía (2022) : 3885
+, Almáchar (1996) : 1967
+, Almáchar (1998) : 1956
+, Almáchar (1999) : 1956
+, Almáchar (2000) : 1904
+, Almáchar (2001) : 1873
+, Almáchar (2002) : 1822
+, Almáchar (2003) : 1902
+, Almáchar (2004) : 1908
+, Almáchar (2005) : 1898
+, Almáchar (2006) : 1906
+, Almáchar (2007) : 1892
+, Almáchar (2008) : 1896
+, Almáchar (2009) : 1888
+, Almáchar (2010) : 1899
+, Almáchar (2011) : 1885
+, Almáchar (2012) : 1904
+, Almáchar (2013) : 1915
+, Almáchar (2014) : 1890
+, Almáchar (2015) : 1867
+, Almáchar (2016) : 1835
+, Almáchar (2017) : 1814
+, Almáchar (2018) : 1802
+, Almáchar (2019) : 1811
+, Almáchar (2020) : 1817
+, Almáchar (2021) : 1843
+, Almáchar (2022) : 1840
+, Alozaina (1996) : 2274
+, Alozaina (1998) : 2188
+, Alozaina (1999) : 2127
+, Alozaina (2000) : 2145
+, Alozaina (2001) : 2159
+, Alozaina (2002) : 2221
+, Alozaina (2003) : 2211
+, Alozaina (2004) : 2236
+, Alozaina (2005) : 2269
+, Alozaina (2006) : 2223
+, Alozaina (2007) : 2217
+, Alozaina (2008) : 2238
+, Alozaina (2009) : 2242
+, Alozaina (2010) : 2244
+, Alozaina (2011) : 2268
+, Alozaina (2012) : 2230
+, Alozaina (2013) : 2206
+, Alozaina (2014) : 2119
+, Alozaina (2015) : 2082
+, Alozaina (2016) : 2030
+, Alozaina (2017) : 2017
+, Alozaina (2018) : 2015
+, Alozaina (2019) : 2051
+, Alozaina (2020) : 2061
+, Alozaina (2021) : 2090
+, Alozaina (2022) : 2089
+, Alpandeire (1996) : 303
+, Alpandeire (1998) : 311
+, Alpandeire (1999) : 301
+, Alpandeire (2000) : 316
+, Alpandeire (2001) : 299
+, Alpandeire (2002) : 311
+, Alpandeire (2003) : 298
+, Alpandeire (2004) : 291
+, Alpandeire (2005) : 291
+, Alpandeire (2006) : 285
+, Alpandeire (2007) : 284
+, Alpandeire (2008) : 278
+, Alpandeire (2009) : 271
+, Alpandeire (2010) : 270
+, Alpandeire (2011) : 279
+, Alpandeire (2012) : 274
+, Alpandeire (2013) : 271
+, Alpandeire (2014) : 269
+, Alpandeire (2015) : 257
+, Alpandeire (2016) : 246
+, Alpandeire (2017) : 244
+, Alpandeire (2018) : 252
+, Alpandeire (2019) : 260
+, Alpandeire (2020) : 263
+, Alpandeire (2021) : 261
+, Alpandeire (2022) : 266
+, Antequera (1996) : 40181
+, Antequera (1998) : 40239
+, Antequera (1999) : 40433
+, Antequera (2000) : 40598
+, Antequera (2001) : 40816
+, Antequera (2002) : 41197
+, Antequera (2003) : 41953
+, Antequera (2004) : 42378
+, Antequera (2005) : 43206
+, Antequera (2006) : 44032
+, Antequera (2007) : 44547
+, Antequera (2008) : 45037
+, Antequera (2009) : 45168
+, Antequera (2010) : 45234
+, Antequera (2011) : 41854
+, Antequera (2012) : 41827
+, Antequera (2013) : 41620
+, Antequera (2014) : 41430
+, Antequera (2015) : 41141
+, Antequera (2016) : 41065
+, Antequera (2017) : 41104
+, Antequera (2018) : 41154
+, Antequera (2019) : 41239
+, Antequera (2020) : 41318
+, Antequera (2021) : 41348
+, Antequera (2022) : 41184
+, Archidona (1996) : 8246
+, Archidona (1998) : 8168
+, Archidona (1999) : 8203
+, Archidona (2000) : 8171
+, Archidona (2001) : 8206
+, Archidona (2002) : 8163
+, Archidona (2003) : 8267
+, Archidona (2004) : 8403
+, Archidona (2005) : 8583
+, Archidona (2006) : 8672
+, Archidona (2007) : 8736
+, Archidona (2008) : 8868
+, Archidona (2009) : 8858
+, Archidona (2010) : 8837
+, Archidona (2011) : 8857
+, Archidona (2012) : 8814
+, Archidona (2013) : 8705
+, Archidona (2014) : 8577
+, Archidona (2015) : 8490
+, Archidona (2016) : 8499
+, Archidona (2017) : 8398
+, Archidona (2018) : 8288
+, Archidona (2019) : 8238
+, Archidona (2020) : 8168
+, Archidona (2021) : 8114
+, Archidona (2022) : 8024
+, Ardales (1996) : 3030
+, Ardales (1998) : 2977
+, Ardales (1999) : 2958
+, Ardales (2000) : 2903
+, Ardales (2001) : 2856
+, Ardales (2002) : 2824
+, Ardales (2003) : 2650
+, Ardales (2004) : 2642
+, Ardales (2005) : 2553
+, Ardales (2006) : 2558
+, Ardales (2007) : 2595
+, Ardales (2008) : 2638
+, Ardales (2009) : 2641
+, Ardales (2010) : 2660
+, Ardales (2011) : 2632
+, Ardales (2012) : 2606
+, Ardales (2013) : 2588
+, Ardales (2014) : 2555
+, Ardales (2015) : 2527
+, Ardales (2016) : 2507
+, Ardales (2017) : 2469
+, Ardales (2018) : 2493
+, Ardales (2019) : 2500
+, Ardales (2020) : 2506
+, Ardales (2021) : 2518
+, Ardales (2022) : 2520
+, Arenas (1996) : 1218
+, Arenas (1998) : 1224
+, Arenas (1999) : 1199
+, Arenas (2000) : 1191
+, Arenas (2001) : 1194
+, Arenas (2002) : 1194
+, Arenas (2003) : 1202
+, Arenas (2004) : 1202
+, Arenas (2005) : 1285
+, Arenas (2006) : 1339
+, Arenas (2007) : 1391
+, Arenas (2008) : 1421
+, Arenas (2009) : 1391
+, Arenas (2010) : 1411
+, Arenas (2011) : 1423
+, Arenas (2012) : 1411
+, Arenas (2013) : 1397
+, Arenas (2014) : 1282
+, Arenas (2015) : 1219
+, Arenas (2016) : 1205
+, Arenas (2017) : 1190
+, Arenas (2018) : 1177
+, Arenas (2019) : 1156
+, Arenas (2020) : 1177
+, Arenas (2021) : 1181
+, Arenas (2022) : 1249
+, Arriate (1996) : 3430
+, Arriate (1998) : 3415
+, Arriate (1999) : 3436
+, Arriate (2000) : 3420
+, Arriate (2001) : 3454
+, Arriate (2002) : 3477
+, Arriate (2003) : 3586
+, Arriate (2004) : 3716
+, Arriate (2005) : 3860
+, Arriate (2006) : 3906
+, Arriate (2007) : 3971
+, Arriate (2008) : 4062
+, Arriate (2009) : 4136
+, Arriate (2010) : 4137
+, Arriate (2011) : 4162
+, Arriate (2012) : 4121
+, Arriate (2013) : 4075
+, Arriate (2014) : 4125
+, Arriate (2015) : 4157
+, Arriate (2016) : 4114
+, Arriate (2017) : 4094
+, Arriate (2018) : 4147
+, Arriate (2019) : 4102
+, Arriate (2020) : 4082
+, Arriate (2021) : 4112
+, Arriate (2022) : 4110
+, Atajate (1996) : 177
+, Atajate (1998) : 176
+, Atajate (1999) : 169
+, Atajate (2000) : 164
+, Atajate (2001) : 172
+, Atajate (2002) : 164
+, Atajate (2003) : 175
+, Atajate (2004) : 172
+, Atajate (2005) : 167
+, Atajate (2006) : 142
+, Atajate (2007) : 154
+, Atajate (2008) : 146
+, Atajate (2009) : 130
+, Atajate (2010) : 127
+, Atajate (2011) : 171
+, Atajate (2012) : 158
+, Atajate (2013) : 142
+, Atajate (2014) : 133
+, Atajate (2015) : 158
+, Atajate (2016) : 171
+, Atajate (2017) : 167
+, Atajate (2018) : 169
+, Atajate (2019) : 168
+, Atajate (2020) : 169
+, Atajate (2021) : 179
+, Atajate (2022) : 183
+, Benadalid (1996) : 264
+, Benadalid (1998) : 253
+, Benadalid (1999) : 260
+, Benadalid (2000) : 262
+, Benadalid (2001) : 270
+, Benadalid (2002) : 261
+, Benadalid (2003) : 263
+, Benadalid (2004) : 258
+, Benadalid (2005) : 259
+, Benadalid (2006) : 258
+, Benadalid (2007) : 255
+, Benadalid (2008) : 261
+, Benadalid (2009) : 257
+, Benadalid (2010) : 265
+, Benadalid (2011) : 262
+, Benadalid (2012) : 262
+, Benadalid (2013) : 258
+, Benadalid (2014) : 253
+, Benadalid (2015) : 253
+, Benadalid (2016) : 232
+, Benadalid (2017) : 223
+, Benadalid (2018) : 225
+, Benadalid (2019) : 215
+, Benadalid (2020) : 233
+, Benadalid (2021) : 236
+, Benadalid (2022) : 239
+, Benahavís (1996) : 1721
+, Benahavís (1998) : 1710
+, Benahavís (1999) : 1867
+, Benahavís (2000) : 2079
+, Benahavís (2001) : 2116
+, Benahavís (2002) : 2204
+, Benahavís (2003) : 2401
+, Benahavís (2004) : 2265
+, Benahavís (2005) : 2649
+, Benahavís (2006) : 2860
+, Benahavís (2007) : 3253
+, Benahavís (2008) : 3844
+, Benahavís (2009) : 4373
+, Benahavís (2010) : 4932
+, Benahavís (2011) : 5486
+, Benahavís (2012) : 5980
+, Benahavís (2013) : 6380
+, Benahavís (2014) : 6660
+, Benahavís (2015) : 7105
+, Benahavís (2016) : 7342
+, Benahavís (2017) : 7348
+, Benahavís (2018) : 7989
+, Benahavís (2019) : 8085
+, Benahavís (2020) : 7748
+, Benahavís (2021) : 7829
+, Benahavís (2022) : 8763
+, Benalauría (1996) : 521
+, Benalauría (1998) : 509
+, Benalauría (1999) : 504
+, Benalauría (2000) : 499
+, Benalauría (2001) : 487
+, Benalauría (2002) : 470
+, Benalauría (2003) : 481
+, Benalauría (2004) : 476
+, Benalauría (2005) : 474
+, Benalauría (2006) : 468
+, Benalauría (2007) : 466
+, Benalauría (2008) : 508
+, Benalauría (2009) : 503
+, Benalauría (2010) : 506
+, Benalauría (2011) : 514
+, Benalauría (2012) : 511
+, Benalauría (2013) : 492
+, Benalauría (2014) : 482
+, Benalauría (2015) : 470
+, Benalauría (2016) : 456
+, Benalauría (2017) : 449
+, Benalauría (2018) : 443
+, Benalauría (2019) : 438
+, Benalauría (2020) : 438
+, Benalauría (2021) : 436
+, Benalauría (2022) : 434
+, Benalmádena (1996) : 27147
+, Benalmádena (1998) : 28479
+, Benalmádena (1999) : 30059
+, Benalmádena (2000) : 31964
+, Benalmádena (2001) : 33557
+, Benalmádena (2002) : 35946
+, Benalmádena (2003) : 40064
+, Benalmádena (2004) : 42437
+, Benalmádena (2005) : 45686
+, Benalmádena (2006) : 50298
+, Benalmádena (2007) : 52217
+, Benalmádena (2008) : 55960
+, Benalmádena (2009) : 58854
+, Benalmádena (2010) : 61383
+, Benalmádena (2011) : 63788
+, Benalmádena (2012) : 65965
+, Benalmádena (2013) : 69002
+, Benalmádena (2014) : 66939
+, Benalmádena (2015) : 66598
+, Benalmádena (2016) : 67245
+, Benalmádena (2017) : 68859
+, Benalmádena (2018) : 67746
+, Benalmádena (2019) : 68128
+, Benalmádena (2020) : 69144
+, Benalmádena (2021) : 70204
+, Benalmádena (2022) : 73160
+, Benamargosa (1996) : 1590
+, Benamargosa (1998) : 1558
+, Benamargosa (1999) : 1552
+, Benamargosa (2000) : 1551
+, Benamargosa (2001) : 1548
+, Benamargosa (2002) : 1520
+, Benamargosa (2003) : 1528
+, Benamargosa (2004) : 1539
+, Benamargosa (2005) : 1585
+, Benamargosa (2006) : 1608
+, Benamargosa (2007) : 1631
+, Benamargosa (2008) : 1642
+, Benamargosa (2009) : 1631
+, Benamargosa (2010) : 1610
+, Benamargosa (2011) : 1617
+, Benamargosa (2012) : 1634
+, Benamargosa (2013) : 1613
+, Benamargosa (2014) : 1489
+, Benamargosa (2015) : 1568
+, Benamargosa (2016) : 1558
+, Benamargosa (2017) : 1532
+, Benamargosa (2018) : 1496
+, Benamargosa (2019) : 1514
+, Benamargosa (2020) : 1535
+, Benamargosa (2021) : 1535
+, Benamargosa (2022) : 1519
+, Benamocarra (1996) : 2779
+, Benamocarra (1998) : 2795
+, Benamocarra (1999) : 2790
+, Benamocarra (2000) : 2811
+, Benamocarra (2001) : 2817
+, Benamocarra (2002) : 2830
+, Benamocarra (2003) : 2852
+, Benamocarra (2004) : 2881
+, Benamocarra (2005) : 2887
+, Benamocarra (2006) : 2952
+, Benamocarra (2007) : 3007
+, Benamocarra (2008) : 3080
+, Benamocarra (2009) : 3061
+, Benamocarra (2010) : 3035
+, Benamocarra (2011) : 3084
+, Benamocarra (2012) : 3089
+, Benamocarra (2013) : 3084
+, Benamocarra (2014) : 3029
+, Benamocarra (2015) : 3047
+, Benamocarra (2016) : 2999
+, Benamocarra (2017) : 2988
+, Benamocarra (2018) : 2999
+, Benamocarra (2019) : 3011
+, Benamocarra (2020) : 3046
+, Benamocarra (2021) : 3030
+, Benamocarra (2022) : 3085
+, Benaoján (1996) : 1704
+, Benaoján (1998) : 1684
+, Benaoján (1999) : 1648
+, Benaoján (2000) : 1648
+, Benaoján (2001) : 1623
+, Benaoján (2002) : 1619
+, Benaoján (2003) : 1584
+, Benaoján (2004) : 1628
+, Benaoján (2005) : 1627
+, Benaoján (2006) : 1612
+, Benaoján (2007) : 1632
+, Benaoján (2008) : 1629
+, Benaoján (2009) : 1604
+, Benaoján (2010) : 1602
+, Benaoján (2011) : 1572
+, Benaoján (2012) : 1543
+, Benaoján (2013) : 1531
+, Benaoján (2014) : 1523
+, Benaoján (2015) : 1513
+, Benaoján (2016) : 1491
+, Benaoján (2017) : 1497
+, Benaoján (2018) : 1488
+, Benaoján (2019) : 1476
+, Benaoján (2020) : 1453
+, Benaoján (2021) : 1470
+, Benaoján (2022) : 1459
+, Benarrabá (1996) : 647
+, Benarrabá (1998) : 602
+, Benarrabá (1999) : 653
+, Benarrabá (2000) : 630
+, Benarrabá (2001) : 611
+, Benarrabá (2002) : 584
+, Benarrabá (2003) : 585
+, Benarrabá (2004) : 561
+, Benarrabá (2005) : 560
+, Benarrabá (2006) : 538
+, Benarrabá (2007) : 547
+, Benarrabá (2008) : 570
+, Benarrabá (2009) : 570
+, Benarrabá (2010) : 567
+, Benarrabá (2011) : 587
+, Benarrabá (2012) : 559
+, Benarrabá (2013) : 544
+, Benarrabá (2014) : 520
+, Benarrabá (2015) : 521
+, Benarrabá (2016) : 493
+, Benarrabá (2017) : 480
+, Benarrabá (2018) : 458
+, Benarrabá (2019) : 455
+, Benarrabá (2020) : 446
+, Benarrabá (2021) : 438
+, Benarrabá (2022) : 446
+, Borge, El (1996) : 1046
+, Borge, El (1998) : 1032
+, Borge, El (1999) : 1033
+, Borge, El (2000) : 1021
+, Borge, El (2001) : 1018
+, Borge, El (2002) : 984
+, Borge, El (2003) : 988
+, Borge, El (2004) : 966
+, Borge, El (2005) : 988
+, Borge, El (2006) : 1035
+, Borge, El (2007) : 1041
+, Borge, El (2008) : 1046
+, Borge, El (2009) : 1026
+, Borge, El (2010) : 1015
+, Borge, El (2011) : 1033
+, Borge, El (2012) : 1026
+, Borge, El (2013) : 984
+, Borge, El (2014) : 963
+, Borge, El (2015) : 963
+, Borge, El (2016) : 960
+, Borge, El (2017) : 940
+, Borge, El (2018) : 933
+, Borge, El (2019) : 930
+, Borge, El (2020) : 922
+, Borge, El (2021) : 906
+, Borge, El (2022) : 921
+, Burgo, El (1996) : 2070
+, Burgo, El (1998) : 2051
+, Burgo, El (1999) : 1992
+, Burgo, El (2000) : 1982
+, Burgo, El (2001) : 2102
+, Burgo, El (2002) : 2091
+, Burgo, El (2003) : 2061
+, Burgo, El (2004) : 2069
+, Burgo, El (2005) : 2067
+, Burgo, El (2006) : 2049
+, Burgo, El (2007) : 2034
+, Burgo, El (2008) : 2027
+, Burgo, El (2009) : 2004
+, Burgo, El (2010) : 1981
+, Burgo, El (2011) : 1957
+, Burgo, El (2012) : 1957
+, Burgo, El (2013) : 1947
+, Burgo, El (2014) : 1922
+, Burgo, El (2015) : 1929
+, Burgo, El (2016) : 1871
+, Burgo, El (2017) : 1848
+, Burgo, El (2018) : 1823
+, Burgo, El (2019) : 1800
+, Burgo, El (2020) : 1792
+, Burgo, El (2021) : 1805
+, Burgo, El (2022) : 1791
+, Campillos (1996) : 7737
+, Campillos (1998) : 7638
+, Campillos (1999) : 7633
+, Campillos (2000) : 7657
+, Campillos (2001) : 7681
+, Campillos (2002) : 7764
+, Campillos (2003) : 7813
+, Campillos (2004) : 7923
+, Campillos (2005) : 8066
+, Campillos (2006) : 8183
+, Campillos (2007) : 8330
+, Campillos (2008) : 8543
+, Campillos (2009) : 8658
+, Campillos (2010) : 8641
+, Campillos (2011) : 8707
+, Campillos (2012) : 8663
+, Campillos (2013) : 8677
+, Campillos (2014) : 8570
+, Campillos (2015) : 8524
+, Campillos (2016) : 8511
+, Campillos (2017) : 8547
+, Campillos (2018) : 8517
+, Campillos (2019) : 8444
+, Campillos (2020) : 8387
+, Campillos (2021) : 8301
+, Campillos (2022) : 8372
+, Canillas de Aceituno (1996) : 2327
+, Canillas de Aceituno (1998) : 2269
+, Canillas de Aceituno (1999) : 2257
+, Canillas de Aceituno (2000) : 2213
+, Canillas de Aceituno (2001) : 2171
+, Canillas de Aceituno (2002) : 2125
+, Canillas de Aceituno (2003) : 2037
+, Canillas de Aceituno (2004) : 2157
+, Canillas de Aceituno (2005) : 2242
+, Canillas de Aceituno (2006) : 2324
+, Canillas de Aceituno (2007) : 2336
+, Canillas de Aceituno (2008) : 2320
+, Canillas de Aceituno (2009) : 2323
+, Canillas de Aceituno (2010) : 2285
+, Canillas de Aceituno (2011) : 2242
+, Canillas de Aceituno (2012) : 1937
+, Canillas de Aceituno (2013) : 1851
+, Canillas de Aceituno (2014) : 1746
+, Canillas de Aceituno (2015) : 1737
+, Canillas de Aceituno (2016) : 1710
+, Canillas de Aceituno (2017) : 1672
+, Canillas de Aceituno (2018) : 1620
+, Canillas de Aceituno (2019) : 1677
+, Canillas de Aceituno (2020) : 1680
+, Canillas de Aceituno (2021) : 1704
+, Canillas de Aceituno (2022) : 1722
+, Canillas de Albaida (1996) : 659
+, Canillas de Albaida (1998) : 667
+, Canillas de Albaida (1999) : 680
+, Canillas de Albaida (2000) : 701
+, Canillas de Albaida (2001) : 732
+, Canillas de Albaida (2002) : 752
+, Canillas de Albaida (2003) : 755
+, Canillas de Albaida (2004) : 777
+, Canillas de Albaida (2005) : 775
+, Canillas de Albaida (2006) : 813
+, Canillas de Albaida (2007) : 854
+, Canillas de Albaida (2008) : 902
+, Canillas de Albaida (2009) : 918
+, Canillas de Albaida (2010) : 924
+, Canillas de Albaida (2011) : 947
+, Canillas de Albaida (2012) : 964
+, Canillas de Albaida (2013) : 979
+, Canillas de Albaida (2014) : 875
+, Canillas de Albaida (2015) : 842
+, Canillas de Albaida (2016) : 773
+, Canillas de Albaida (2017) : 741
+, Canillas de Albaida (2018) : 732
+, Canillas de Albaida (2019) : 716
+, Canillas de Albaida (2020) : 759
+, Canillas de Albaida (2021) : 811
+, Canillas de Albaida (2022) : 796
+, Carratraca (1996) : 870
+, Carratraca (1998) : 852
+, Carratraca (1999) : 838
+, Carratraca (2000) : 838
+, Carratraca (2001) : 835
+, Carratraca (2002) : 860
+, Carratraca (2003) : 824
+, Carratraca (2004) : 839
+, Carratraca (2005) : 871
+, Carratraca (2006) : 887
+, Carratraca (2007) : 910
+, Carratraca (2008) : 923
+, Carratraca (2009) : 896
+, Carratraca (2010) : 886
+, Carratraca (2011) : 875
+, Carratraca (2012) : 860
+, Carratraca (2013) : 816
+, Carratraca (2014) : 793
+, Carratraca (2015) : 775
+, Carratraca (2016) : 750
+, Carratraca (2017) : 751
+, Carratraca (2018) : 748
+, Carratraca (2019) : 731
+, Carratraca (2020) : 740
+, Carratraca (2021) : 719
+, Carratraca (2022) : 718
+, Cartajima (1996) : 257
+, Cartajima (1998) : 254
+, Cartajima (1999) : 219
+, Cartajima (2000) : 214
+, Cartajima (2001) : 207
+, Cartajima (2002) : 203
+, Cartajima (2003) : 237
+, Cartajima (2004) : 250
+, Cartajima (2005) : 243
+, Cartajima (2006) : 251
+, Cartajima (2007) : 255
+, Cartajima (2008) : 242
+, Cartajima (2009) : 246
+, Cartajima (2010) : 266
+, Cartajima (2011) : 277
+, Cartajima (2012) : 251
+, Cartajima (2013) : 250
+, Cartajima (2014) : 252
+, Cartajima (2015) : 247
+, Cartajima (2016) : 241
+, Cartajima (2017) : 244
+, Cartajima (2018) : 247
+, Cartajima (2019) : 253
+, Cartajima (2020) : 242
+, Cartajima (2021) : 259
+, Cartajima (2022) : 256
+, Casabermeja (1996) : 3034
+, Casabermeja (1998) : 2982
+, Casabermeja (1999) : 2958
+, Casabermeja (2000) : 3003
+, Casabermeja (2001) : 3016
+, Casabermeja (2002) : 2979
+, Casabermeja (2003) : 2942
+, Casabermeja (2004) : 3127
+, Casabermeja (2005) : 3240
+, Casabermeja (2006) : 3364
+, Casabermeja (2007) : 3421
+, Casabermeja (2008) : 3509
+, Casabermeja (2009) : 3520
+, Casabermeja (2010) : 3554
+, Casabermeja (2011) : 3675
+, Casabermeja (2012) : 3686
+, Casabermeja (2013) : 3651
+, Casabermeja (2014) : 3498
+, Casabermeja (2015) : 3418
+, Casabermeja (2016) : 3443
+, Casabermeja (2017) : 3442
+, Casabermeja (2018) : 3507
+, Casabermeja (2019) : 3522
+, Casabermeja (2020) : 3629
+, Casabermeja (2021) : 3712
+, Casabermeja (2022) : 3813
+, Casarabonela (1996) : 2600
+, Casarabonela (1998) : 2552
+, Casarabonela (1999) : 2559
+, Casarabonela (2000) : 2553
+, Casarabonela (2001) : 2507
+, Casarabonela (2002) : 2495
+, Casarabonela (2003) : 2492
+, Casarabonela (2004) : 2491
+, Casarabonela (2005) : 2605
+, Casarabonela (2006) : 2666
+, Casarabonela (2007) : 2769
+, Casarabonela (2008) : 2767
+, Casarabonela (2009) : 2748
+, Casarabonela (2010) : 2723
+, Casarabonela (2011) : 2707
+, Casarabonela (2012) : 2726
+, Casarabonela (2013) : 2690
+, Casarabonela (2014) : 2592
+, Casarabonela (2015) : 2599
+, Casarabonela (2016) : 2573
+, Casarabonela (2017) : 2550
+, Casarabonela (2018) : 2510
+, Casarabonela (2019) : 2502
+, Casarabonela (2020) : 2514
+, Casarabonela (2021) : 2532
+, Casarabonela (2022) : 2524
+, Casares (1996) : 3206
+, Casares (1998) : 3144
+, Casares (1999) : 3224
+, Casares (2000) : 3309
+, Casares (2001) : 3338
+, Casares (2002) : 3361
+, Casares (2003) : 3661
+, Casares (2004) : 3846
+, Casares (2005) : 4051
+, Casares (2006) : 4283
+, Casares (2007) : 4532
+, Casares (2008) : 4797
+, Casares (2009) : 4993
+, Casares (2010) : 5182
+, Casares (2011) : 5331
+, Casares (2012) : 5610
+, Casares (2013) : 5754
+, Casares (2014) : 5744
+, Casares (2015) : 5954
+, Casares (2016) : 5795
+, Casares (2017) : 5743
+, Casares (2018) : 6121
+, Casares (2019) : 6515
+, Casares (2020) : 6883
+, Casares (2021) : 7342
+, Casares (2022) : 7700
+, Cañete la Real (1996) : 2247
+, Cañete la Real (1998) : 2233
+, Cañete la Real (1999) : 2215
+, Cañete la Real (2000) : 2200
+, Cañete la Real (2001) : 2177
+, Cañete la Real (2002) : 2158
+, Cañete la Real (2003) : 2090
+, Cañete la Real (2004) : 2084
+, Cañete la Real (2005) : 2069
+, Cañete la Real (2006) : 2051
+, Cañete la Real (2007) : 2052
+, Cañete la Real (2008) : 2024
+, Cañete la Real (2009) : 2014
+, Cañete la Real (2010) : 1990
+, Cañete la Real (2011) : 1947
+, Cañete la Real (2012) : 1901
+, Cañete la Real (2013) : 1812
+, Cañete la Real (2014) : 1768
+, Cañete la Real (2015) : 1738
+, Cañete la Real (2016) : 1710
+, Cañete la Real (2017) : 1674
+, Cañete la Real (2018) : 1691
+, Cañete la Real (2019) : 1665
+, Cañete la Real (2020) : 1633
+, Cañete la Real (2021) : 1633
+, Cañete la Real (2022) : 1584
+, Colmenar (1996) : 3138
+, Colmenar (1998) : 3149
+, Colmenar (1999) : 3172
+, Colmenar (2000) : 3124
+, Colmenar (2001) : 3146
+, Colmenar (2002) : 3137
+, Colmenar (2003) : 3167
+, Colmenar (2004) : 3197
+, Colmenar (2005) : 3287
+, Colmenar (2006) : 3384
+, Colmenar (2007) : 3530
+, Colmenar (2008) : 3625
+, Colmenar (2009) : 3621
+, Colmenar (2010) : 3681
+, Colmenar (2011) : 3673
+, Colmenar (2012) : 3624
+, Colmenar (2013) : 3583
+, Colmenar (2014) : 3486
+, Colmenar (2015) : 3444
+, Colmenar (2016) : 3385
+, Colmenar (2017) : 3383
+, Colmenar (2018) : 3392
+, Colmenar (2019) : 3376
+, Colmenar (2020) : 3409
+, Colmenar (2021) : 3450
+, Colmenar (2022) : 3488
+, Comares (1996) : 1405
+, Comares (1998) : 1395
+, Comares (1999) : 1407
+, Comares (2000) : 1399
+, Comares (2001) : 1369
+, Comares (2002) : 1368
+, Comares (2003) : 1365
+, Comares (2004) : 1419
+, Comares (2005) : 1485
+, Comares (2006) : 1522
+, Comares (2007) : 1568
+, Comares (2008) : 1570
+, Comares (2009) : 1591
+, Comares (2010) : 1615
+, Comares (2011) : 1636
+, Comares (2012) : 1638
+, Comares (2013) : 1583
+, Comares (2014) : 1435
+, Comares (2015) : 1385
+, Comares (2016) : 1348
+, Comares (2017) : 1315
+, Comares (2018) : 1323
+, Comares (2019) : 1315
+, Comares (2020) : 1330
+, Comares (2021) : 1349
+, Comares (2022) : 1320
+, Cortes de la Frontera (1996) : 3643
+, Cortes de la Frontera (1998) : 3628
+, Cortes de la Frontera (1999) : 3565
+, Cortes de la Frontera (2000) : 3513
+, Cortes de la Frontera (2001) : 3442
+, Cortes de la Frontera (2002) : 3449
+, Cortes de la Frontera (2003) : 3523
+, Cortes de la Frontera (2004) : 3558
+, Cortes de la Frontera (2005) : 3686
+, Cortes de la Frontera (2006) : 3758
+, Cortes de la Frontera (2007) : 3738
+, Cortes de la Frontera (2008) : 3762
+, Cortes de la Frontera (2009) : 3714
+, Cortes de la Frontera (2010) : 3642
+, Cortes de la Frontera (2011) : 3586
+, Cortes de la Frontera (2012) : 3540
+, Cortes de la Frontera (2013) : 3461
+, Cortes de la Frontera (2014) : 3357
+, Cortes de la Frontera (2015) : 3304
+, Cortes de la Frontera (2016) : 3277
+, Cortes de la Frontera (2017) : 3268
+, Cortes de la Frontera (2018) : 3181
+, Cortes de la Frontera (2019) : 3101
+, Cortes de la Frontera (2020) : 3065
+, Cortes de la Frontera (2021) : 3034
+, Cortes de la Frontera (2022) : 2986
+, Coín (1996) : 17572
+, Coín (1998) : 17450
+, Coín (1999) : 17627
+, Coín (2000) : 17868
+, Coín (2001) : 17998
+, Coín (2002) : 18255
+, Coín (2003) : 19213
+, Coín (2004) : 19295
+, Coín (2005) : 20116
+, Coín (2006) : 20551
+, Coín (2007) : 20870
+, Coín (2008) : 21484
+, Coín (2009) : 21866
+, Coín (2010) : 22030
+, Coín (2011) : 22159
+, Coín (2012) : 21791
+, Coín (2013) : 22536
+, Coín (2014) : 21553
+, Coín (2015) : 21561
+, Coín (2016) : 21456
+, Coín (2017) : 21562
+, Coín (2018) : 21716
+, Coín (2019) : 22147
+, Coín (2020) : 22673
+, Coín (2021) : 23375
+, Coín (2022) : 24309
+, Cuevas Bajas (1996) : 1516
+, Cuevas Bajas (1998) : 1501
+, Cuevas Bajas (1999) : 1438
+, Cuevas Bajas (2000) : 1473
+, Cuevas Bajas (2001) : 1461
+, Cuevas Bajas (2002) : 1446
+, Cuevas Bajas (2003) : 1435
+, Cuevas Bajas (2004) : 1460
+, Cuevas Bajas (2005) : 1462
+, Cuevas Bajas (2006) : 1430
+, Cuevas Bajas (2007) : 1441
+, Cuevas Bajas (2008) : 1463
+, Cuevas Bajas (2009) : 1454
+, Cuevas Bajas (2010) : 1459
+, Cuevas Bajas (2011) : 1482
+, Cuevas Bajas (2012) : 1494
+, Cuevas Bajas (2013) : 1451
+, Cuevas Bajas (2014) : 1431
+, Cuevas Bajas (2015) : 1431
+, Cuevas Bajas (2016) : 1430
+, Cuevas Bajas (2017) : 1416
+, Cuevas Bajas (2018) : 1392
+, Cuevas Bajas (2019) : 1395
+, Cuevas Bajas (2020) : 1370
+, Cuevas Bajas (2021) : 1355
+, Cuevas Bajas (2022) : 1353
+, Cuevas de San Marcos (1996) : 4079
+, Cuevas de San Marcos (1998) : 4073
+, Cuevas de San Marcos (1999) : 4017
+, Cuevas de San Marcos (2000) : 4008
+, Cuevas de San Marcos (2001) : 3980
+, Cuevas de San Marcos (2002) : 3986
+, Cuevas de San Marcos (2003) : 3994
+, Cuevas de San Marcos (2004) : 3973
+, Cuevas de San Marcos (2005) : 3973
+, Cuevas de San Marcos (2006) : 4007
+, Cuevas de San Marcos (2007) : 4048
+, Cuevas de San Marcos (2008) : 4142
+, Cuevas de San Marcos (2009) : 4131
+, Cuevas de San Marcos (2010) : 4107
+, Cuevas de San Marcos (2011) : 4097
+, Cuevas de San Marcos (2012) : 4043
+, Cuevas de San Marcos (2013) : 4029
+, Cuevas de San Marcos (2014) : 3951
+, Cuevas de San Marcos (2015) : 3884
+, Cuevas de San Marcos (2016) : 3776
+, Cuevas de San Marcos (2017) : 3722
+, Cuevas de San Marcos (2018) : 3671
+, Cuevas de San Marcos (2019) : 3648
+, Cuevas de San Marcos (2020) : 3601
+, Cuevas de San Marcos (2021) : 3614
+, Cuevas de San Marcos (2022) : 3632
+, Cuevas del Becerro (1996) : 2038
+, Cuevas del Becerro (1998) : 1999
+, Cuevas del Becerro (1999) : 1933
+, Cuevas del Becerro (2000) : 1960
+, Cuevas del Becerro (2001) : 1949
+, Cuevas del Becerro (2002) : 1966
+, Cuevas del Becerro (2003) : 1886
+, Cuevas del Becerro (2004) : 1871
+, Cuevas del Becerro (2005) : 1853
+, Cuevas del Becerro (2006) : 1847
+, Cuevas del Becerro (2007) : 1847
+, Cuevas del Becerro (2008) : 1820
+, Cuevas del Becerro (2009) : 1801
+, Cuevas del Becerro (2010) : 1771
+, Cuevas del Becerro (2011) : 1790
+, Cuevas del Becerro (2012) : 1747
+, Cuevas del Becerro (2013) : 1704
+, Cuevas del Becerro (2014) : 1670
+, Cuevas del Becerro (2015) : 1643
+, Cuevas del Becerro (2016) : 1618
+, Cuevas del Becerro (2017) : 1608
+, Cuevas del Becerro (2018) : 1595
+, Cuevas del Becerro (2019) : 1589
+, Cuevas del Becerro (2020) : 1597
+, Cuevas del Becerro (2021) : 1601
+, Cuevas del Becerro (2022) : 1609
+, Cártama (1996) : 12713
+, Cártama (1998) : 12752
+, Cártama (1999) : 13004
+, Cártama (2000) : 13188
+, Cártama (2001) : 13483
+, Cártama (2002) : 13900
+, Cártama (2003) : 14783
+, Cártama (2004) : 15524
+, Cártama (2005) : 16692
+, Cártama (2006) : 17690
+, Cártama (2007) : 18865
+, Cártama (2008) : 20436
+, Cártama (2009) : 21313
+, Cártama (2010) : 22173
+, Cártama (2011) : 22867
+, Cártama (2012) : 23664
+, Cártama (2013) : 24242
+, Cártama (2014) : 24328
+, Cártama (2015) : 24592
+, Cártama (2016) : 24824
+, Cártama (2017) : 25317
+, Cártama (2018) : 25758
+, Cártama (2019) : 26259
+, Cártama (2020) : 26738
+, Cártama (2021) : 27436
+, Cártama (2022) : 27712
+, Cómpeta (1996) : 2684
+, Cómpeta (1998) : 2681
+, Cómpeta (1999) : 2703
+, Cómpeta (2000) : 2793
+, Cómpeta (2001) : 2822
+, Cómpeta (2002) : 2863
+, Cómpeta (2003) : 3195
+, Cómpeta (2004) : 3364
+, Cómpeta (2005) : 3418
+, Cómpeta (2006) : 3582
+, Cómpeta (2007) : 3712
+, Cómpeta (2008) : 3794
+, Cómpeta (2009) : 3854
+, Cómpeta (2010) : 3862
+, Cómpeta (2011) : 3832
+, Cómpeta (2012) : 3861
+, Cómpeta (2013) : 3885
+, Cómpeta (2014) : 3459
+, Cómpeta (2015) : 3503
+, Cómpeta (2016) : 3705
+, Cómpeta (2017) : 3847
+, Cómpeta (2018) : 3745
+, Cómpeta (2019) : 3922
+, Cómpeta (2020) : 3967
+, Cómpeta (2021) : 3866
+, Cómpeta (2022) : 3814
+, Cútar (1996) : 615
+, Cútar (1998) : 611
+, Cútar (1999) : 609
+, Cútar (2000) : 603
+, Cútar (2001) : 610
+, Cútar (2002) : 621
+, Cútar (2003) : 637
+, Cútar (2004) : 637
+, Cútar (2005) : 639
+, Cútar (2006) : 642
+, Cútar (2007) : 649
+, Cútar (2008) : 655
+, Cútar (2009) : 682
+, Cútar (2010) : 671
+, Cútar (2011) : 674
+, Cútar (2012) : 668
+, Cútar (2013) : 661
+, Cútar (2014) : 635
+, Cútar (2015) : 605
+, Cútar (2016) : 598
+, Cútar (2017) : 597
+, Cútar (2018) : 614
+, Cútar (2019) : 607
+, Cútar (2020) : 616
+, Cútar (2021) : 602
+, Cútar (2022) : 590
+, Estepona (1996) : 37557
+, Estepona (1998) : 39178
+, Estepona (1999) : 40552
+, Estepona (2000) : 42157
+, Estepona (2001) : 43527
+, Estepona (2002) : 46342
+, Estepona (2003) : 47697
+, Estepona (2004) : 50488
+, Estepona (2005) : 54709
+, Estepona (2006) : 58603
+, Estepona (2007) : 60328
+, Estepona (2008) : 62848
+, Estepona (2009) : 65592
+, Estepona (2010) : 66150
+, Estepona (2011) : 65667
+, Estepona (2012) : 67101
+, Estepona (2013) : 67986
+, Estepona (2014) : 66566
+, Estepona (2015) : 67080
+, Estepona (2016) : 66683
+, Estepona (2017) : 66863
+, Estepona (2018) : 67012
+, Estepona (2019) : 68286
+, Estepona (2020) : 70228
+, Estepona (2021) : 71925
+, Estepona (2022) : 74493
+, Faraján (1996) : 310
+, Faraján (1998) : 302
+, Faraján (1999) : 273
+, Faraján (2000) : 288
+, Faraján (2001) : 301
+, Faraján (2002) : 292
+, Faraján (2003) : 267
+, Faraján (2004) : 253
+, Faraján (2005) : 252
+, Faraján (2006) : 289
+, Faraján (2007) : 308
+, Faraján (2008) : 296
+, Faraján (2009) : 275
+, Faraján (2010) : 252
+, Faraján (2011) : 292
+, Faraján (2012) : 287
+, Faraján (2013) : 246
+, Faraján (2014) : 253
+, Faraján (2015) : 265
+, Faraján (2016) : 265
+, Faraján (2017) : 248
+, Faraján (2018) : 248
+, Faraján (2019) : 253
+, Faraján (2020) : 261
+, Faraján (2021) : 250
+, Faraján (2022) : 270
+, Frigiliana (1996) : 2149
+, Frigiliana (1998) : 2155
+, Frigiliana (1999) : 2157
+, Frigiliana (2000) : 2169
+, Frigiliana (2001) : 2182
+, Frigiliana (2002) : 2237
+, Frigiliana (2003) : 2328
+, Frigiliana (2004) : 2451
+, Frigiliana (2005) : 2576
+, Frigiliana (2006) : 2691
+, Frigiliana (2007) : 2834
+, Frigiliana (2008) : 2978
+, Frigiliana (2009) : 3071
+, Frigiliana (2010) : 3171
+, Frigiliana (2011) : 3273
+, Frigiliana (2012) : 3360
+, Frigiliana (2013) : 3395
+, Frigiliana (2014) : 3093
+, Frigiliana (2015) : 3065
+, Frigiliana (2016) : 3039
+, Frigiliana (2017) : 3066
+, Frigiliana (2018) : 3086
+, Frigiliana (2019) : 3009
+, Frigiliana (2020) : 3062
+, Frigiliana (2021) : 3198
+, Frigiliana (2022) : 3282
+, Fuengirola (1996) : 41713
+, Fuengirola (1998) : 44924
+, Fuengirola (1999) : 46392
+, Fuengirola (2000) : 47914
+, Fuengirola (2001) : 50263
+, Fuengirola (2002) : 53270
+, Fuengirola (2003) : 57133
+, Fuengirola (2004) : 58957
+, Fuengirola (2005) : 62915
+, Fuengirola (2006) : 63899
+, Fuengirola (2007) : 65421
+, Fuengirola (2008) : 68646
+, Fuengirola (2009) : 71482
+, Fuengirola (2010) : 71783
+, Fuengirola (2011) : 74054
+, Fuengirola (2012) : 75953
+, Fuengirola (2013) : 77397
+, Fuengirola (2014) : 75856
+, Fuengirola (2015) : 77525
+, Fuengirola (2016) : 77486
+, Fuengirola (2017) : 74929
+, Fuengirola (2018) : 75396
+, Fuengirola (2019) : 80309
+, Fuengirola (2020) : 82837
+, Fuengirola (2021) : 82585
+, Fuengirola (2022) : 83226
+, Fuente de Piedra (1996) : 2059
+, Fuente de Piedra (1998) : 2065
+, Fuente de Piedra (1999) : 1940
+, Fuente de Piedra (2000) : 1913
+, Fuente de Piedra (2001) : 1913
+, Fuente de Piedra (2002) : 2034
+, Fuente de Piedra (2003) : 2024
+, Fuente de Piedra (2004) : 2067
+, Fuente de Piedra (2005) : 2146
+, Fuente de Piedra (2006) : 2209
+, Fuente de Piedra (2007) : 2341
+, Fuente de Piedra (2008) : 2582
+, Fuente de Piedra (2009) : 2783
+, Fuente de Piedra (2010) : 2795
+, Fuente de Piedra (2011) : 2837
+, Fuente de Piedra (2012) : 2758
+, Fuente de Piedra (2013) : 2733
+, Fuente de Piedra (2014) : 2612
+, Fuente de Piedra (2015) : 2613
+, Fuente de Piedra (2016) : 2525
+, Fuente de Piedra (2017) : 2507
+, Fuente de Piedra (2018) : 2554
+, Fuente de Piedra (2019) : 2596
+, Fuente de Piedra (2020) : 2662
+, Fuente de Piedra (2021) : 2770
+, Fuente de Piedra (2022) : 2787
+, Gaucín (1996) : 1660
+, Gaucín (1998) : 1677
+, Gaucín (1999) : 1688
+, Gaucín (2000) : 1705
+, Gaucín (2001) : 1732
+, Gaucín (2002) : 1719
+, Gaucín (2003) : 1793
+, Gaucín (2004) : 1818
+, Gaucín (2005) : 1842
+, Gaucín (2006) : 1878
+, Gaucín (2007) : 1946
+, Gaucín (2008) : 1983
+, Gaucín (2009) : 1929
+, Gaucín (2010) : 1845
+, Gaucín (2011) : 1776
+, Gaucín (2012) : 1727
+, Gaucín (2013) : 1647
+, Gaucín (2014) : 1671
+, Gaucín (2015) : 1670
+, Gaucín (2016) : 1620
+, Gaucín (2017) : 1588
+, Gaucín (2018) : 1573
+, Gaucín (2019) : 1576
+, Gaucín (2020) : 1589
+, Gaucín (2021) : 1595
+, Gaucín (2022) : 1608
+, Genalguacil (1996) : 624
+, Genalguacil (1998) : 583
+, Genalguacil (1999) : 571
+, Genalguacil (2000) : 575
+, Genalguacil (2001) : 556
+, Genalguacil (2002) : 538
+, Genalguacil (2003) : 528
+, Genalguacil (2004) : 543
+, Genalguacil (2005) : 519
+, Genalguacil (2006) : 502
+, Genalguacil (2007) : 537
+, Genalguacil (2008) : 526
+, Genalguacil (2009) : 501
+, Genalguacil (2010) : 491
+, Genalguacil (2011) : 544
+, Genalguacil (2012) : 522
+, Genalguacil (2013) : 499
+, Genalguacil (2014) : 437
+, Genalguacil (2015) : 456
+, Genalguacil (2016) : 424
+, Genalguacil (2017) : 405
+, Genalguacil (2018) : 393
+, Genalguacil (2019) : 410
+, Genalguacil (2020) : 393
+, Genalguacil (2021) : 391
+, Genalguacil (2022) : 393
+, Guaro (1996) : 2011
+, Guaro (1998) : 2020
+, Guaro (1999) : 1901
+, Guaro (2000) : 1877
+, Guaro (2001) : 1880
+, Guaro (2002) : 2052
+, Guaro (2003) : 2013
+, Guaro (2004) : 2046
+, Guaro (2005) : 2096
+, Guaro (2006) : 2228
+, Guaro (2007) : 2273
+, Guaro (2008) : 2230
+, Guaro (2009) : 2272
+, Guaro (2010) : 2285
+, Guaro (2011) : 2310
+, Guaro (2012) : 2289
+, Guaro (2013) : 2284
+, Guaro (2014) : 2143
+, Guaro (2015) : 2060
+, Guaro (2016) : 2047
+, Guaro (2017) : 2087
+, Guaro (2018) : 2182
+, Guaro (2019) : 2260
+, Guaro (2020) : 2280
+, Guaro (2021) : 2326
+, Guaro (2022) : 2302
+, Humilladero (1996) : 2514
+, Humilladero (1998) : 2564
+, Humilladero (1999) : 2513
+, Humilladero (2000) : 2469
+, Humilladero (2001) : 2683
+, Humilladero (2002) : 2728
+, Humilladero (2003) : 2745
+, Humilladero (2004) : 2797
+, Humilladero (2005) : 2929
+, Humilladero (2006) : 3016
+, Humilladero (2007) : 3104
+, Humilladero (2008) : 3215
+, Humilladero (2009) : 3291
+, Humilladero (2010) : 3324
+, Humilladero (2011) : 3358
+, Humilladero (2012) : 3383
+, Humilladero (2013) : 3430
+, Humilladero (2014) : 3377
+, Humilladero (2015) : 3364
+, Humilladero (2016) : 3311
+, Humilladero (2017) : 3292
+, Humilladero (2018) : 3310
+, Humilladero (2019) : 3286
+, Humilladero (2020) : 3297
+, Humilladero (2021) : 3293
+, Humilladero (2022) : 3282
+, Igualeja (1996) : 969
+, Igualeja (1998) : 930
+, Igualeja (1999) : 912
+, Igualeja (2000) : 922
+, Igualeja (2001) : 902
+, Igualeja (2002) : 888
+, Igualeja (2003) : 967
+, Igualeja (2004) : 1011
+, Igualeja (2005) : 977
+, Igualeja (2006) : 948
+, Igualeja (2007) : 1012
+, Igualeja (2008) : 991
+, Igualeja (2009) : 958
+, Igualeja (2010) : 908
+, Igualeja (2011) : 934
+, Igualeja (2012) : 871
+, Igualeja (2013) : 823
+, Igualeja (2014) : 811
+, Igualeja (2015) : 816
+, Igualeja (2016) : 793
+, Igualeja (2017) : 778
+, Igualeja (2018) : 762
+, Igualeja (2019) : 763
+, Igualeja (2020) : 752
+, Igualeja (2021) : 740
+, Igualeja (2022) : 729
+, Istán (1996) : 1320
+, Istán (1998) : 1303
+, Istán (1999) : 1322
+, Istán (2000) : 1348
+, Istán (2001) : 1322
+, Istán (2002) : 1314
+, Istán (2003) : 1362
+, Istán (2004) : 1417
+, Istán (2005) : 1422
+, Istán (2006) : 1432
+, Istán (2007) : 1437
+, Istán (2008) : 1386
+, Istán (2009) : 1496
+, Istán (2010) : 1486
+, Istán (2011) : 1520
+, Istán (2012) : 1533
+, Istán (2013) : 1398
+, Istán (2014) : 1404
+, Istán (2015) : 1388
+, Istán (2016) : 1399
+, Istán (2017) : 1432
+, Istán (2018) : 1458
+, Istán (2019) : 1469
+, Istán (2020) : 1494
+, Istán (2021) : 1520
+, Istán (2022) : 1587
+, Iznate (1996) : 754
+, Iznate (1998) : 758
+, Iznate (1999) : 751
+, Iznate (2000) : 757
+, Iznate (2001) : 766
+, Iznate (2002) : 781
+, Iznate (2003) : 805
+, Iznate (2004) : 816
+, Iznate (2005) : 855
+, Iznate (2006) : 859
+, Iznate (2007) : 889
+, Iznate (2008) : 918
+, Iznate (2009) : 927
+, Iznate (2010) : 923
+, Iznate (2011) : 949
+, Iznate (2012) : 951
+, Iznate (2013) : 943
+, Iznate (2014) : 906
+, Iznate (2015) : 899
+, Iznate (2016) : 874
+, Iznate (2017) : 856
+, Iznate (2018) : 863
+, Iznate (2019) : 868
+, Iznate (2020) : 907
+, Iznate (2021) : 912
+, Iznate (2022) : 899
+, Jimera de Líbar (1996) : 428
+, Jimera de Líbar (1998) : 422
+, Jimera de Líbar (1999) : 419
+, Jimera de Líbar (2000) : 401
+, Jimera de Líbar (2001) : 378
+, Jimera de Líbar (2002) : 376
+, Jimera de Líbar (2003) : 386
+, Jimera de Líbar (2004) : 410
+, Jimera de Líbar (2005) : 435
+, Jimera de Líbar (2006) : 421
+, Jimera de Líbar (2007) : 470
+, Jimera de Líbar (2008) : 453
+, Jimera de Líbar (2009) : 457
+, Jimera de Líbar (2010) : 473
+, Jimera de Líbar (2011) : 471
+, Jimera de Líbar (2012) : 463
+, Jimera de Líbar (2013) : 461
+, Jimera de Líbar (2014) : 414
+, Jimera de Líbar (2015) : 415
+, Jimera de Líbar (2016) : 409
+, Jimera de Líbar (2017) : 396
+, Jimera de Líbar (2018) : 376
+, Jimera de Líbar (2019) : 372
+, Jimera de Líbar (2020) : 379
+, Jimera de Líbar (2021) : 388
+, Jimera de Líbar (2022) : 403
+, Jubrique (1996) : 866
+, Jubrique (1998) : 849
+, Jubrique (1999) : 848
+, Jubrique (2000) : 843
+, Jubrique (2001) : 820
+, Jubrique (2002) : 781
+, Jubrique (2003) : 745
+, Jubrique (2004) : 737
+, Jubrique (2005) : 754
+, Jubrique (2006) : 765
+, Jubrique (2007) : 796
+, Jubrique (2008) : 803
+, Jubrique (2009) : 756
+, Jubrique (2010) : 751
+, Jubrique (2011) : 781
+, Jubrique (2012) : 739
+, Jubrique (2013) : 712
+, Jubrique (2014) : 643
+, Jubrique (2015) : 638
+, Jubrique (2016) : 634
+, Jubrique (2017) : 589
+, Jubrique (2018) : 559
+, Jubrique (2019) : 528
+, Jubrique (2020) : 523
+, Jubrique (2021) : 553
+, Jubrique (2022) : 545
+, Júzcar (1996) : 219
+, Júzcar (1998) : 217
+, Júzcar (1999) : 223
+, Júzcar (2000) : 242
+, Júzcar (2001) : 227
+, Júzcar (2002) : 218
+, Júzcar (2003) : 211
+, Júzcar (2004) : 201
+, Júzcar (2005) : 185
+, Júzcar (2006) : 193
+, Júzcar (2007) : 201
+, Júzcar (2008) : 205
+, Júzcar (2009) : 218
+, Júzcar (2010) : 221
+, Júzcar (2011) : 242
+, Júzcar (2012) : 243
+, Júzcar (2013) : 239
+, Júzcar (2014) : 232
+, Júzcar (2015) : 238
+, Júzcar (2016) : 228
+, Júzcar (2017) : 226
+, Júzcar (2018) : 225
+, Júzcar (2019) : 232
+, Júzcar (2020) : 214
+, Júzcar (2021) : 235
+, Júzcar (2022) : 247
+, Macharaviaya (1996) : 324
+, Macharaviaya (1998) : 325
+, Macharaviaya (1999) : 346
+, Macharaviaya (2000) : 353
+, Macharaviaya (2001) : 356
+, Macharaviaya (2002) : 364
+, Macharaviaya (2003) : 368
+, Macharaviaya (2004) : 367
+, Macharaviaya (2005) : 362
+, Macharaviaya (2006) : 385
+, Macharaviaya (2007) : 496
+, Macharaviaya (2008) : 492
+, Macharaviaya (2009) : 501
+, Macharaviaya (2010) : 519
+, Macharaviaya (2011) : 519
+, Macharaviaya (2012) : 504
+, Macharaviaya (2013) : 500
+, Macharaviaya (2014) : 465
+, Macharaviaya (2015) : 477
+, Macharaviaya (2016) : 461
+, Macharaviaya (2017) : 448
+, Macharaviaya (2018) : 442
+, Macharaviaya (2019) : 480
+, Macharaviaya (2020) : 513
+, Macharaviaya (2021) : 524
+, Macharaviaya (2022) : 513
+, Manilva (1996) : 5131
+, Manilva (1998) : 5428
+, Manilva (1999) : 5509
+, Manilva (2000) : 5768
+, Manilva (2001) : 5986
+, Manilva (2002) : 6270
+, Manilva (2003) : 7270
+, Manilva (2004) : 8245
+, Manilva (2005) : 9624
+, Manilva (2006) : 11181
+, Manilva (2007) : 12249
+, Manilva (2008) : 13258
+, Manilva (2009) : 13813
+, Manilva (2010) : 14168
+, Manilva (2011) : 13810
+, Manilva (2012) : 14391
+, Manilva (2013) : 14600
+, Manilva (2014) : 14451
+, Manilva (2015) : 14587
+, Manilva (2016) : 14750
+, Manilva (2017) : 14589
+, Manilva (2018) : 14977
+, Manilva (2019) : 15528
+, Manilva (2020) : 16439
+, Manilva (2021) : 16849
+, Manilva (2022) : 17157
+, Marbella (1996) : 98823
+, Marbella (1998) : 98377
+, Marbella (1999) : 101144
+, Marbella (2000) : 105910
+, Marbella (2001) : 110847
+, Marbella (2002) : 115871
+, Marbella (2003) : 116234
+, Marbella (2004) : 117353
+, Marbella (2005) : 124333
+, Marbella (2006) : 125519
+, Marbella (2007) : 126422
+, Marbella (2008) : 130549
+, Marbella (2009) : 134623
+, Marbella (2010) : 136322
+, Marbella (2011) : 138662
+, Marbella (2012) : 140473
+, Marbella (2013) : 142018
+, Marbella (2014) : 138679
+, Marbella (2015) : 139537
+, Marbella (2016) : 140744
+, Marbella (2017) : 141172
+, Marbella (2018) : 141463
+, Marbella (2019) : 143386
+, Marbella (2020) : 147633
+, Marbella (2021) : 147958
+, Marbella (2022) : 150725
+, Mijas (1996) : 35423
+, Mijas (1998) : 37490
+, Mijas (1999) : 39302
+, Mijas (2000) : 41912
+, Mijas (2001) : 44741
+, Mijas (2002) : 47565
+, Mijas (2003) : 52189
+, Mijas (2004) : 52573
+, Mijas (2005) : 56838
+, Mijas (2006) : 61147
+, Mijas (2007) : 64288
+, Mijas (2008) : 70437
+, Mijas (2009) : 73787
+, Mijas (2010) : 76362
+, Mijas (2011) : 79262
+, Mijas (2012) : 82124
+, Mijas (2013) : 85600
+, Mijas (2014) : 77521
+, Mijas (2015) : 79483
+, Mijas (2016) : 77769
+, Mijas (2017) : 77151
+, Mijas (2018) : 80630
+, Mijas (2019) : 82742
+, Mijas (2020) : 85397
+, Mijas (2021) : 86744
+, Mijas (2022) : 89502
+, Moclinejo (1996) : 1021
+, Moclinejo (1998) : 1029
+, Moclinejo (1999) : 1076
+, Moclinejo (2000) : 1116
+, Moclinejo (2001) : 1148
+, Moclinejo (2002) : 1127
+, Moclinejo (2003) : 1123
+, Moclinejo (2004) : 1147
+, Moclinejo (2005) : 1194
+, Moclinejo (2006) : 1198
+, Moclinejo (2007) : 1245
+, Moclinejo (2008) : 1264
+, Moclinejo (2009) : 1256
+, Moclinejo (2010) : 1274
+, Moclinejo (2011) : 1303
+, Moclinejo (2012) : 1295
+, Moclinejo (2013) : 1283
+, Moclinejo (2014) : 1256
+, Moclinejo (2015) : 1255
+, Moclinejo (2016) : 1217
+, Moclinejo (2017) : 1204
+, Moclinejo (2018) : 1230
+, Moclinejo (2019) : 1271
+, Moclinejo (2020) : 1251
+, Moclinejo (2021) : 1244
+, Moclinejo (2022) : 1243
+, Mollina (1996) : 3276
+, Mollina (1998) : 3359
+, Mollina (1999) : 3345
+, Mollina (2000) : 3416
+, Mollina (2001) : 3439
+, Mollina (2002) : 3514
+, Mollina (2003) : 3658
+, Mollina (2004) : 3883
+, Mollina (2005) : 4151
+, Mollina (2006) : 4370
+, Mollina (2007) : 4645
+, Mollina (2008) : 4963
+, Mollina (2009) : 5152
+, Mollina (2010) : 5274
+, Mollina (2011) : 5283
+, Mollina (2012) : 5239
+, Mollina (2013) : 5185
+, Mollina (2014) : 4943
+, Mollina (2015) : 4901
+, Mollina (2016) : 4913
+, Mollina (2017) : 4924
+, Mollina (2018) : 5020
+, Mollina (2019) : 5149
+, Mollina (2020) : 5276
+, Mollina (2021) : 5341
+, Mollina (2022) : 5376
+, Monda (1996) : 1620
+, Monda (1998) : 1637
+, Monda (1999) : 1671
+, Monda (2000) : 1685
+, Monda (2001) : 1698
+, Monda (2002) : 1753
+, Monda (2003) : 1855
+, Monda (2004) : 1974
+, Monda (2005) : 2059
+, Monda (2006) : 2094
+, Monda (2007) : 2258
+, Monda (2008) : 2342
+, Monda (2009) : 2410
+, Monda (2010) : 2470
+, Monda (2011) : 2486
+, Monda (2012) : 2523
+, Monda (2013) : 2383
+, Monda (2014) : 2375
+, Monda (2015) : 2382
+, Monda (2016) : 2400
+, Monda (2017) : 2475
+, Monda (2018) : 2523
+, Monda (2019) : 2594
+, Monda (2020) : 2697
+, Monda (2021) : 2762
+, Monda (2022) : 2844
+, Montecorto (2016) : 640
+, Montecorto (2017) : 630
+, Montecorto (2018) : 585
+, Montecorto (2019) : 593
+, Montecorto (2020) : 586
+, Montecorto (2021) : 572
+, Montecorto (2022) : 582
+, Montejaque (1996) : 1069
+, Montejaque (1998) : 1009
+, Montejaque (1999) : 1020
+, Montejaque (2000) : 1008
+, Montejaque (2001) : 1008
+, Montejaque (2002) : 1011
+, Montejaque (2003) : 1005
+, Montejaque (2004) : 994
+, Montejaque (2005) : 1018
+, Montejaque (2006) : 1013
+, Montejaque (2007) : 995
+, Montejaque (2008) : 1004
+, Montejaque (2009) : 1009
+, Montejaque (2010) : 1017
+, Montejaque (2011) : 1048
+, Montejaque (2012) : 1017
+, Montejaque (2013) : 1010
+, Montejaque (2014) : 985
+, Montejaque (2015) : 984
+, Montejaque (2016) : 1011
+, Montejaque (2017) : 997
+, Montejaque (2018) : 970
+, Montejaque (2019) : 964
+, Montejaque (2020) : 949
+, Montejaque (2021) : 938
+, Montejaque (2022) : 938
+, Málaga (1996) : 549135
+, Málaga (1998) : 528079
+, Málaga (1999) : 530553
+, Málaga (2000) : 531565
+, Málaga (2001) : 534207
+, Málaga (2002) : 535686
+, Málaga (2003) : 547105
+, Málaga (2004) : 547731
+, Málaga (2005) : 558287
+, Málaga (2006) : 560631
+, Málaga (2007) : 561250
+, Málaga (2008) : 566447
+, Málaga (2009) : 568305
+, Málaga (2010) : 568507
+, Málaga (2011) : 568030
+, Málaga (2012) : 567433
+, Málaga (2013) : 568479
+, Málaga (2014) : 566913
+, Málaga (2015) : 569130
+, Málaga (2016) : 569009
+, Málaga (2017) : 569002
+, Málaga (2018) : 571026
+, Málaga (2019) : 574654
+, Málaga (2020) : 578460
+, Málaga (2021) : 577405
+, Málaga (2022) : 579076
+, Nerja (1996) : 14965
+, Nerja (1998) : 15326
+, Nerja (1999) : 15725
+, Nerja (2000) : 16112
+, Nerja (2001) : 16464
+, Nerja (2002) : 17186
+, Nerja (2003) : 17637
+, Nerja (2004) : 18509
+, Nerja (2005) : 19496
+, Nerja (2006) : 20361
+, Nerja (2007) : 20796
+, Nerja (2008) : 21621
+, Nerja (2009) : 21811
+, Nerja (2010) : 21957
+, Nerja (2011) : 22294
+, Nerja (2012) : 22617
+, Nerja (2013) : 22918
+, Nerja (2014) : 20649
+, Nerja (2015) : 21185
+, Nerja (2016) : 21204
+, Nerja (2017) : 21047
+, Nerja (2018) : 21061
+, Nerja (2019) : 21091
+, Nerja (2020) : 21144
+, Nerja (2021) : 21018
+, Nerja (2022) : 21450
+, Ojén (1996) : 2004
+, Ojén (1998) : 1961
+, Ojén (1999) : 1994
+, Ojén (2000) : 2048
+, Ojén (2001) : 2091
+, Ojén (2002) : 2085
+, Ojén (2003) : 2253
+, Ojén (2004) : 2294
+, Ojén (2005) : 2446
+, Ojén (2006) : 2491
+, Ojén (2007) : 2528
+, Ojén (2008) : 2668
+, Ojén (2009) : 2805
+, Ojén (2010) : 2949
+, Ojén (2011) : 3244
+, Ojén (2012) : 3451
+, Ojén (2013) : 3293
+, Ojén (2014) : 3326
+, Ojén (2015) : 3353
+, Ojén (2016) : 3385
+, Ojén (2017) : 3517
+, Ojén (2018) : 3568
+, Ojén (2019) : 3702
+, Ojén (2020) : 3816
+, Ojén (2021) : 4023
+, Ojén (2022) : 4218
+, Parauta (1996) : 252
+, Parauta (1998) : 230
+, Parauta (1999) : 223
+, Parauta (2000) : 225
+, Parauta (2001) : 215
+, Parauta (2002) : 208
+, Parauta (2003) : 250
+, Parauta (2004) : 245
+, Parauta (2005) : 236
+, Parauta (2006) : 226
+, Parauta (2007) : 252
+, Parauta (2008) : 242
+, Parauta (2009) : 231
+, Parauta (2010) : 254
+, Parauta (2011) : 265
+, Parauta (2012) : 242
+, Parauta (2013) : 241
+, Parauta (2014) : 251
+, Parauta (2015) : 249
+, Parauta (2016) : 230
+, Parauta (2017) : 209
+, Parauta (2018) : 253
+, Parauta (2019) : 251
+, Parauta (2020) : 239
+, Parauta (2021) : 251
+, Parauta (2022) : 272
+, Periana (1996) : 3466
+, Periana (1998) : 3417
+, Periana (1999) : 3408
+, Periana (2000) : 3387
+, Periana (2001) : 3318
+, Periana (2002) : 3355
+, Periana (2003) : 3388
+, Periana (2004) : 3396
+, Periana (2005) : 3447
+, Periana (2006) : 3524
+, Periana (2007) : 3525
+, Periana (2008) : 3600
+, Periana (2009) : 3611
+, Periana (2010) : 3602
+, Periana (2011) : 3570
+, Periana (2012) : 3560
+, Periana (2013) : 3542
+, Periana (2014) : 3361
+, Periana (2015) : 3231
+, Periana (2016) : 3149
+, Periana (2017) : 3124
+, Periana (2018) : 3068
+, Periana (2019) : 3048
+, Periana (2020) : 3089
+, Periana (2021) : 3159
+, Periana (2022) : 3234
+, Pizarra (1996) : 6586
+, Pizarra (1998) : 6602
+, Pizarra (1999) : 6586
+, Pizarra (2000) : 6608
+, Pizarra (2001) : 6593
+, Pizarra (2002) : 6600
+, Pizarra (2003) : 6940
+, Pizarra (2004) : 7165
+, Pizarra (2005) : 7555
+, Pizarra (2006) : 7812
+, Pizarra (2007) : 8129
+, Pizarra (2008) : 8652
+, Pizarra (2009) : 8785
+, Pizarra (2010) : 8990
+, Pizarra (2011) : 9137
+, Pizarra (2012) : 9269
+, Pizarra (2013) : 9298
+, Pizarra (2014) : 9201
+, Pizarra (2015) : 9148
+, Pizarra (2016) : 9106
+, Pizarra (2017) : 9073
+, Pizarra (2018) : 9118
+, Pizarra (2019) : 9226
+, Pizarra (2020) : 9444
+, Pizarra (2021) : 9572
+, Pizarra (2022) : 9661
+, Pujerra (1996) : 347
+, Pujerra (1998) : 313
+, Pujerra (1999) : 310
+, Pujerra (2000) : 304
+, Pujerra (2001) : 295
+, Pujerra (2002) : 292
+, Pujerra (2003) : 324
+, Pujerra (2004) : 320
+, Pujerra (2005) : 333
+, Pujerra (2006) : 316
+, Pujerra (2007) : 328
+, Pujerra (2008) : 334
+, Pujerra (2009) : 337
+, Pujerra (2010) : 347
+, Pujerra (2011) : 343
+, Pujerra (2012) : 326
+, Pujerra (2013) : 314
+, Pujerra (2014) : 294
+, Pujerra (2015) : 294
+, Pujerra (2016) : 305
+, Pujerra (2017) : 307
+, Pujerra (2018) : 294
+, Pujerra (2019) : 301
+, Pujerra (2020) : 308
+, Pujerra (2021) : 298
+, Pujerra (2022) : 274
+, Rincón de la Victoria (1996) : 19247
+, Rincón de la Victoria (1998) : 20629
+, Rincón de la Victoria (1999) : 21721
+, Rincón de la Victoria (2000) : 23029
+, Rincón de la Victoria (2001) : 24224
+, Rincón de la Victoria (2002) : 25682
+, Rincón de la Victoria (2003) : 28007
+, Rincón de la Victoria (2004) : 30169
+, Rincón de la Victoria (2005) : 31996
+, Rincón de la Victoria (2006) : 33817
+, Rincón de la Victoria (2007) : 35714
+, Rincón de la Victoria (2008) : 37145
+, Rincón de la Victoria (2009) : 38666
+, Rincón de la Victoria (2010) : 39922
+, Rincón de la Victoria (2011) : 40339
+, Rincón de la Victoria (2012) : 41216
+, Rincón de la Victoria (2013) : 41827
+, Rincón de la Victoria (2014) : 42688
+, Rincón de la Victoria (2015) : 43135
+, Rincón de la Victoria (2016) : 44003
+, Rincón de la Victoria (2017) : 45138
+, Rincón de la Victoria (2018) : 46093
+, Rincón de la Victoria (2019) : 47179
+, Rincón de la Victoria (2020) : 48768
+, Rincón de la Victoria (2021) : 49790
+, Rincón de la Victoria (2022) : 50569
+, Riogordo (1996) : 2662
+, Riogordo (1998) : 2680
+, Riogordo (1999) : 2692
+, Riogordo (2000) : 2692
+, Riogordo (2001) : 2673
+, Riogordo (2002) : 2636
+, Riogordo (2003) : 2786
+, Riogordo (2004) : 2873
+, Riogordo (2005) : 2947
+, Riogordo (2006) : 3032
+, Riogordo (2007) : 3052
+, Riogordo (2008) : 3090
+, Riogordo (2009) : 3102
+, Riogordo (2010) : 3059
+, Riogordo (2011) : 3127
+, Riogordo (2012) : 3107
+, Riogordo (2013) : 3083
+, Riogordo (2014) : 2896
+, Riogordo (2015) : 2936
+, Riogordo (2016) : 2812
+, Riogordo (2017) : 2715
+, Riogordo (2018) : 2701
+, Riogordo (2019) : 2724
+, Riogordo (2020) : 2723
+, Riogordo (2021) : 2734
+, Riogordo (2022) : 2762
+, Ronda (1996) : 34385
+, Ronda (1998) : 33806
+, Ronda (1999) : 33806
+, Ronda (2000) : 34021
+, Ronda (2001) : 34214
+, Ronda (2002) : 34470
+, Ronda (2003) : 35137
+, Ronda (2004) : 34948
+, Ronda (2005) : 35512
+, Ronda (2006) : 35836
+, Ronda (2007) : 36122
+, Ronda (2008) : 36532
+, Ronda (2009) : 36827
+, Ronda (2010) : 36909
+, Ronda (2011) : 36793
+, Ronda (2012) : 36698
+, Ronda (2013) : 36665
+, Ronda (2014) : 36208
+, Ronda (2015) : 35676
+, Ronda (2016) : 34381
+, Ronda (2017) : 34268
+, Ronda (2018) : 33978
+, Ronda (2019) : 33877
+, Ronda (2020) : 33730
+, Ronda (2021) : 33624
+, Ronda (2022) : 33401
+, Salares (1996) : 237
+, Salares (1998) : 219
+, Salares (1999) : 213
+, Salares (2000) : 208
+, Salares (2001) : 206
+, Salares (2002) : 179
+, Salares (2003) : 211
+, Salares (2004) : 214
+, Salares (2005) : 205
+, Salares (2006) : 191
+, Salares (2007) : 228
+, Salares (2008) : 210
+, Salares (2009) : 214
+, Salares (2010) : 205
+, Salares (2011) : 232
+, Salares (2012) : 236
+, Salares (2013) : 229
+, Salares (2014) : 221
+, Salares (2015) : 207
+, Salares (2016) : 181
+, Salares (2017) : 175
+, Salares (2018) : 174
+, Salares (2019) : 169
+, Salares (2020) : 173
+, Salares (2021) : 173
+, Salares (2022) : 175
+, Sayalonga (1996) : 1138
+, Sayalonga (1998) : 1147
+, Sayalonga (1999) : 1143
+, Sayalonga (2000) : 1177
+, Sayalonga (2001) : 1196
+, Sayalonga (2002) : 1236
+, Sayalonga (2003) : 1289
+, Sayalonga (2004) : 1331
+, Sayalonga (2005) : 1401
+, Sayalonga (2006) : 1460
+, Sayalonga (2007) : 1490
+, Sayalonga (2008) : 1532
+, Sayalonga (2009) : 1564
+, Sayalonga (2010) : 1555
+, Sayalonga (2011) : 1557
+, Sayalonga (2012) : 1564
+, Sayalonga (2013) : 1568
+, Sayalonga (2014) : 1512
+, Sayalonga (2015) : 1505
+, Sayalonga (2016) : 1628
+, Sayalonga (2017) : 1579
+, Sayalonga (2018) : 1658
+, Sayalonga (2019) : 1681
+, Sayalonga (2020) : 1568
+, Sayalonga (2021) : 1614
+, Sayalonga (2022) : 1641
+, Sedella (1996) : 526
+, Sedella (1998) : 498
+, Sedella (1999) : 484
+, Sedella (2000) : 490
+, Sedella (2001) : 492
+, Sedella (2002) : 475
+, Sedella (2003) : 487
+, Sedella (2004) : 523
+, Sedella (2005) : 581
+, Sedella (2006) : 646
+, Sedella (2007) : 688
+, Sedella (2008) : 694
+, Sedella (2009) : 699
+, Sedella (2010) : 687
+, Sedella (2011) : 733
+, Sedella (2012) : 716
+, Sedella (2013) : 715
+, Sedella (2014) : 667
+, Sedella (2015) : 692
+, Sedella (2016) : 625
+, Sedella (2017) : 634
+, Sedella (2018) : 606
+, Sedella (2019) : 606
+, Sedella (2020) : 576
+, Sedella (2021) : 592
+, Sedella (2022) : 598
+, Serrato (2016) : 503
+, Serrato (2017) : 494
+, Serrato (2018) : 477
+, Serrato (2019) : 477
+, Serrato (2020) : 482
+, Serrato (2021) : 473
+, Serrato (2022) : 458
+, Sierra de Yeguas (1996) : 3203
+, Sierra de Yeguas (1998) : 3175
+, Sierra de Yeguas (1999) : 3218
+, Sierra de Yeguas (2000) : 3221
+, Sierra de Yeguas (2001) : 3237
+, Sierra de Yeguas (2002) : 3237
+, Sierra de Yeguas (2003) : 3284
+, Sierra de Yeguas (2004) : 3299
+, Sierra de Yeguas (2005) : 3367
+, Sierra de Yeguas (2006) : 3418
+, Sierra de Yeguas (2007) : 3487
+, Sierra de Yeguas (2008) : 3552
+, Sierra de Yeguas (2009) : 3566
+, Sierra de Yeguas (2010) : 3545
+, Sierra de Yeguas (2011) : 3552
+, Sierra de Yeguas (2012) : 3517
+, Sierra de Yeguas (2013) : 3488
+, Sierra de Yeguas (2014) : 3444
+, Sierra de Yeguas (2015) : 3398
+, Sierra de Yeguas (2016) : 3370
+, Sierra de Yeguas (2017) : 3363
+, Sierra de Yeguas (2018) : 3356
+, Sierra de Yeguas (2019) : 3346
+, Sierra de Yeguas (2020) : 3318
+, Sierra de Yeguas (2021) : 3386
+, Sierra de Yeguas (2022) : 3393
+, Teba (1996) : 4386
+, Teba (1998) : 4371
+, Teba (1999) : 4394
+, Teba (2000) : 4383
+, Teba (2001) : 4385
+, Teba (2002) : 4375
+, Teba (2003) : 4330
+, Teba (2004) : 4315
+, Teba (2005) : 4304
+, Teba (2006) : 4278
+, Teba (2007) : 4253
+, Teba (2008) : 4253
+, Teba (2009) : 4201
+, Teba (2010) : 4184
+, Teba (2011) : 4148
+, Teba (2012) : 4128
+, Teba (2013) : 4044
+, Teba (2014) : 4001
+, Teba (2015) : 3973
+, Teba (2016) : 3912
+, Teba (2017) : 3847
+, Teba (2018) : 3818
+, Teba (2019) : 3760
+, Teba (2020) : 3744
+, Teba (2021) : 3727
+, Teba (2022) : 3729
+, Tolox (1996) : 2571
+, Tolox (1998) : 2512
+, Tolox (1999) : 2488
+, Tolox (2000) : 2390
+, Tolox (2001) : 2297
+, Tolox (2002) : 2252
+, Tolox (2003) : 2221
+, Tolox (2004) : 2246
+, Tolox (2005) : 2317
+, Tolox (2006) : 2336
+, Tolox (2007) : 2349
+, Tolox (2008) : 2375
+, Tolox (2009) : 2373
+, Tolox (2010) : 2346
+, Tolox (2011) : 2343
+, Tolox (2012) : 2317
+, Tolox (2013) : 2295
+, Tolox (2014) : 2233
+, Tolox (2015) : 2186
+, Tolox (2016) : 2093
+, Tolox (2017) : 2062
+, Tolox (2018) : 2083
+, Tolox (2019) : 2107
+, Tolox (2020) : 2136
+, Tolox (2021) : 2203
+, Tolox (2022) : 2309
+, Torremolinos (1996) : 35408
+, Torremolinos (1998) : 37235
+, Torremolinos (1999) : 39068
+, Torremolinos (2000) : 41281
+, Torremolinos (2001) : 43613
+, Torremolinos (2002) : 46683
+, Torremolinos (2003) : 50649
+, Torremolinos (2004) : 52354
+, Torremolinos (2005) : 55479
+, Torremolinos (2006) : 58683
+, Torremolinos (2007) : 60010
+, Torremolinos (2008) : 63077
+, Torremolinos (2009) : 65448
+, Torremolinos (2010) : 66957
+, Torremolinos (2011) : 68181
+, Torremolinos (2012) : 68961
+, Torremolinos (2013) : 69389
+, Torremolinos (2014) : 67353
+, Torremolinos (2015) : 67492
+, Torremolinos (2016) : 67786
+, Torremolinos (2017) : 67701
+, Torremolinos (2018) : 68262
+, Torremolinos (2019) : 68661
+, Torremolinos (2020) : 69166
+, Torremolinos (2021) : 68056
+, Torremolinos (2022) : 68819
+, Torrox (1996) : 11869
+, Torrox (1998) : 11691
+, Torrox (1999) : 11919
+, Torrox (2000) : 12094
+, Torrox (2001) : 12257
+, Torrox (2002) : 12341
+, Torrox (2003) : 12391
+, Torrox (2004) : 12901
+, Torrox (2005) : 13964
+, Torrox (2006) : 14925
+, Torrox (2007) : 15616
+, Torrox (2008) : 16395
+, Torrox (2009) : 16890
+, Torrox (2010) : 17303
+, Torrox (2011) : 17859
+, Torrox (2012) : 18274
+, Torrox (2013) : 18514
+, Torrox (2014) : 15511
+, Torrox (2015) : 15117
+, Torrox (2016) : 15098
+, Torrox (2017) : 15371
+, Torrox (2018) : 16465
+, Torrox (2019) : 17234
+, Torrox (2020) : 17943
+, Torrox (2021) : 18937
+, Torrox (2022) : 19997
+, Totalán (1996) : 609
+, Totalán (1998) : 613
+, Totalán (1999) : 615
+, Totalán (2000) : 616
+, Totalán (2001) : 618
+, Totalán (2002) : 628
+, Totalán (2003) : 624
+, Totalán (2004) : 679
+, Totalán (2005) : 699
+, Totalán (2006) : 707
+, Totalán (2007) : 704
+, Totalán (2008) : 724
+, Totalán (2009) : 722
+, Totalán (2010) : 737
+, Totalán (2011) : 768
+, Totalán (2012) : 746
+, Totalán (2013) : 736
+, Totalán (2014) : 723
+, Totalán (2015) : 710
+, Totalán (2016) : 707
+, Totalán (2017) : 710
+, Totalán (2018) : 715
+, Totalán (2019) : 746
+, Totalán (2020) : 737
+, Totalán (2021) : 725
+, Totalán (2022) : 750
+, Valle de Abdalajís (1996) : 3081
+, Valle de Abdalajís (1998) : 3049
+, Valle de Abdalajís (1999) : 3035
+, Valle de Abdalajís (2000) : 3007
+, Valle de Abdalajís (2001) : 2980
+, Valle de Abdalajís (2002) : 2981
+, Valle de Abdalajís (2003) : 2934
+, Valle de Abdalajís (2004) : 2954
+, Valle de Abdalajís (2005) : 2948
+, Valle de Abdalajís (2006) : 2955
+, Valle de Abdalajís (2007) : 2983
+, Valle de Abdalajís (2008) : 2908
+, Valle de Abdalajís (2009) : 2842
+, Valle de Abdalajís (2010) : 2802
+, Valle de Abdalajís (2011) : 2761
+, Valle de Abdalajís (2012) : 2716
+, Valle de Abdalajís (2013) : 2712
+, Valle de Abdalajís (2014) : 2664
+, Valle de Abdalajís (2015) : 2615
+, Valle de Abdalajís (2016) : 2603
+, Valle de Abdalajís (2017) : 2577
+, Valle de Abdalajís (2018) : 2568
+, Valle de Abdalajís (2019) : 2542
+, Valle de Abdalajís (2020) : 2502
+, Valle de Abdalajís (2021) : 2483
+, Valle de Abdalajís (2022) : 2473
+, Villanueva de Algaidas (1996) : 4175
+, Villanueva de Algaidas (1998) : 4143
+, Villanueva de Algaidas (1999) : 4159
+, Villanueva de Algaidas (2000) : 4183
+, Villanueva de Algaidas (2001) : 4147
+, Villanueva de Algaidas (2002) : 4178
+, Villanueva de Algaidas (2003) : 4192
+, Villanueva de Algaidas (2004) : 4321
+, Villanueva de Algaidas (2005) : 4444
+, Villanueva de Algaidas (2006) : 4493
+, Villanueva de Algaidas (2007) : 4503
+, Villanueva de Algaidas (2008) : 4602
+, Villanueva de Algaidas (2009) : 4560
+, Villanueva de Algaidas (2010) : 4515
+, Villanueva de Algaidas (2011) : 4489
+, Villanueva de Algaidas (2012) : 4485
+, Villanueva de Algaidas (2013) : 4471
+, Villanueva de Algaidas (2014) : 4373
+, Villanueva de Algaidas (2015) : 4337
+, Villanueva de Algaidas (2016) : 4325
+, Villanueva de Algaidas (2017) : 4238
+, Villanueva de Algaidas (2018) : 4218
+, Villanueva de Algaidas (2019) : 4176
+, Villanueva de Algaidas (2020) : 4148
+, Villanueva de Algaidas (2021) : 4129
+, Villanueva de Algaidas (2022) : 4146
+, Villanueva de Tapia (1996) : 1642
+, Villanueva de Tapia (1998) : 1613
+, Villanueva de Tapia (1999) : 1606
+, Villanueva de Tapia (2000) : 1621
+, Villanueva de Tapia (2001) : 1610
+, Villanueva de Tapia (2002) : 1631
+, Villanueva de Tapia (2003) : 1658
+, Villanueva de Tapia (2004) : 1679
+, Villanueva de Tapia (2005) : 1667
+, Villanueva de Tapia (2006) : 1673
+, Villanueva de Tapia (2007) : 1669
+, Villanueva de Tapia (2008) : 1671
+, Villanueva de Tapia (2009) : 1667
+, Villanueva de Tapia (2010) : 1675
+, Villanueva de Tapia (2011) : 1663
+, Villanueva de Tapia (2012) : 1629
+, Villanueva de Tapia (2013) : 1603
+, Villanueva de Tapia (2014) : 1564
+, Villanueva de Tapia (2015) : 1544
+, Villanueva de Tapia (2016) : 1531
+, Villanueva de Tapia (2017) : 1523
+, Villanueva de Tapia (2018) : 1490
+, Villanueva de Tapia (2019) : 1476
+, Villanueva de Tapia (2020) : 1460
+, Villanueva de Tapia (2021) : 1437
+, Villanueva de Tapia (2022) : 1417
+, Villanueva de la Concepción (2011) : 3443
+, Villanueva de la Concepción (2012) : 3465
+, Villanueva de la Concepción (2013) : 3460
+, Villanueva de la Concepción (2014) : 3429
+, Villanueva de la Concepción (2015) : 3341
+, Villanueva de la Concepción (2016) : 3304
+, Villanueva de la Concepción (2017) : 3290
+, Villanueva de la Concepción (2018) : 3288
+, Villanueva de la Concepción (2019) : 3296
+, Villanueva de la Concepción (2020) : 3288
+, Villanueva de la Concepción (2021) : 3277
+, Villanueva de la Concepción (2022) : 3295
+, Villanueva del Rosario (1996) : 3270
+, Villanueva del Rosario (1998) : 3326
+, Villanueva del Rosario (1999) : 3339
+, Villanueva del Rosario (2000) : 3318
+, Villanueva del Rosario (2001) : 3342
+, Villanueva del Rosario (2002) : 3331
+, Villanueva del Rosario (2003) : 3358
+, Villanueva del Rosario (2004) : 3361
+, Villanueva del Rosario (2005) : 3392
+, Villanueva del Rosario (2006) : 3470
+, Villanueva del Rosario (2007) : 3547
+, Villanueva del Rosario (2008) : 3613
+, Villanueva del Rosario (2009) : 3712
+, Villanueva del Rosario (2010) : 3698
+, Villanueva del Rosario (2011) : 3646
+, Villanueva del Rosario (2012) : 3641
+, Villanueva del Rosario (2013) : 3588
+, Villanueva del Rosario (2014) : 3538
+, Villanueva del Rosario (2015) : 3508
+, Villanueva del Rosario (2016) : 3465
+, Villanueva del Rosario (2017) : 3383
+, Villanueva del Rosario (2018) : 3373
+, Villanueva del Rosario (2019) : 3356
+, Villanueva del Rosario (2020) : 3362
+, Villanueva del Rosario (2021) : 3374
+, Villanueva del Rosario (2022) : 3339
+, Villanueva del Trabuco (1996) : 4674
+, Villanueva del Trabuco (1998) : 4697
+, Villanueva del Trabuco (1999) : 4753
+, Villanueva del Trabuco (2000) : 4760
+, Villanueva del Trabuco (2001) : 4739
+, Villanueva del Trabuco (2002) : 4723
+, Villanueva del Trabuco (2003) : 4884
+, Villanueva del Trabuco (2004) : 4985
+, Villanueva del Trabuco (2005) : 5113
+, Villanueva del Trabuco (2006) : 5219
+, Villanueva del Trabuco (2007) : 5306
+, Villanueva del Trabuco (2008) : 5385
+, Villanueva del Trabuco (2009) : 5408
+, Villanueva del Trabuco (2010) : 5447
+, Villanueva del Trabuco (2011) : 5424
+, Villanueva del Trabuco (2012) : 5482
+, Villanueva del Trabuco (2013) : 5444
+, Villanueva del Trabuco (2014) : 5270
+, Villanueva del Trabuco (2015) : 5246
+, Villanueva del Trabuco (2016) : 5313
+, Villanueva del Trabuco (2017) : 5327
+, Villanueva del Trabuco (2018) : 5300
+, Villanueva del Trabuco (2019) : 5299
+, Villanueva del Trabuco (2020) : 5308
+, Villanueva del Trabuco (2021) : 5360
+, Villanueva del Trabuco (2022) : 5340
+, Viñuela (1996) : 1165
+, Viñuela (1998) : 1189
+, Viñuela (1999) : 1185
+, Viñuela (2000) : 1200
+, Viñuela (2001) : 1247
+, Viñuela (2002) : 1280
+, Viñuela (2003) : 1358
+, Viñuela (2004) : 1481
+, Viñuela (2005) : 1622
+, Viñuela (2006) : 1737
+, Viñuela (2007) : 1881
+, Viñuela (2008) : 1973
+, Viñuela (2009) : 1994
+, Viñuela (2010) : 1993
+, Viñuela (2011) : 1980
+, Viñuela (2012) : 2040
+, Viñuela (2013) : 2073
+, Viñuela (2014) : 1921
+, Viñuela (2015) : 2013
+, Viñuela (2016) : 2009
+, Viñuela (2017) : 2045
+, Viñuela (2018) : 2020
+, Viñuela (2019) : 2034
+, Viñuela (2020) : 2055
+, Viñuela (2021) : 2045
+, Viñuela (2022) : 2106
+, Vélez-Málaga (1996) : 53071
+, Vélez-Málaga (1998) : 53816
+, Vélez-Málaga (1999) : 54796
+, Vélez-Málaga (2000) : 55156
+, Vélez-Málaga (2001) : 56233
+, Vélez-Málaga (2002) : 57457
+, Vélez-Málaga (2003) : 60197
+, Vélez-Málaga (2004) : 61797
+, Vélez-Málaga (2005) : 64919
+, Vélez-Málaga (2006) : 67697
+, Vélez-Málaga (2007) : 69604
+, Vélez-Málaga (2008) : 72842
+, Vélez-Málaga (2009) : 74190
+, Vélez-Málaga (2010) : 75623
+, Vélez-Málaga (2011) : 77004
+, Vélez-Málaga (2012) : 78467
+, Vélez-Málaga (2013) : 76911
+, Vélez-Málaga (2014) : 77808
+, Vélez-Málaga (2015) : 78166
+, Vélez-Málaga (2016) : 78890
+, Vélez-Málaga (2017) : 79878
+, Vélez-Málaga (2018) : 80817
+, Vélez-Málaga (2019) : 81643
+, Vélez-Málaga (2020) : 82365
+, Vélez-Málaga (2021) : 82967
+, Vélez-Málaga (2022) : 83899
+, Yunquera (1996) : 3274
+, Yunquera (1998) : 3261
+, Yunquera (1999) : 3256
+, Yunquera (2000) : 3268
+, Yunquera (2001) : 3259
+, Yunquera (2002) : 3245
+, Yunquera (2003) : 3264
+, Yunquera (2004) : 3284
+, Yunquera (2005) : 3270
+, Yunquera (2006) : 3284
+, Yunquera (2007) : 3271
+, Yunquera (2008) : 3286
+, Yunquera (2009) : 3237
+, Yunquera (2010) : 3205
+, Yunquera (2011) : 3181
+, Yunquera (2012) : 3139
+, Yunquera (2013) : 3091
+, Yunquera (2014) : 3046
+, Yunquera (2015) : 2983
+, Yunquera (2016) : 2948
+, Yunquera (2017) : 2926
+, Yunquera (2018) : 2880
+, Yunquera (2019) : 2864
+, Yunquera (2020) : 2869
+, Yunquera (2021) : 2866
+, Yunquera (2022) : 2841
+, Álora (1996) : 12862
+, Álora (1998) : 12633
+, Álora (1999) : 12565
+, Álora (2000) : 12509
+, Álora (2001) : 12471
+, Álora (2002) : 12538
+, Álora (2003) : 12739
+, Álora (2004) : 12838
+, Álora (2005) : 13013
+, Álora (2006) : 13204
+, Álora (2007) : 13307
+, Álora (2008) : 13436
+, Álora (2009) : 13395
+, Álora (2010) : 13474
+, Álora (2011) : 13499
+, Álora (2012) : 13399
+, Álora (2013) : 13342
+, Álora (2014) : 13046
+, Álora (2015) : 13003
+, Álora (2016) : 12941
+, Álora (2017) : 12924
+, Álora (2018) : 12951
+, Álora (2019) : 12985
+, Álora (2020) : 13112
+, Álora (2021) : 13336
+, Álora (2022) : 13382
+, Árchez (1996) : 341
+, Árchez (1998) : 333
+, Árchez (1999) : 338
+, Árchez (2000) : 352
+, Árchez (2001) : 352
+, Árchez (2002) : 350
+, Árchez (2003) : 355
+, Árchez (2004) : 397
+, Árchez (2005) : 399
+, Árchez (2006) : 427
+, Árchez (2007) : 427
+, Árchez (2008) : 437
+, Árchez (2009) : 440
+, Árchez (2010) : 446
+, Árchez (2011) : 476
+, Árchez (2012) : 476
+, Árchez (2013) : 487
+, Árchez (2014) : 444
+, Árchez (2015) : 436
+, Árchez (2016) : 428
+, Árchez (2017) : 405
+, Árchez (2018) : 391
+, Árchez (2019) : 385
+, Árchez (2020) : 385
+, Árchez (2021) : 398
+, Árchez (2022) : 396
+]
+
+Información de Mijas en 2022 -> Mijas (2022) : 89502
+
+El incremento de la población de Fuengirola del 2016 al 2022 es de: 5740 habitantes
+El incremento de la población de Mijas del 2016 al 2022 es de: 11733 habitantes
+
+Municipio menos poblado en 2021 -> Salares (2021) : 173
+

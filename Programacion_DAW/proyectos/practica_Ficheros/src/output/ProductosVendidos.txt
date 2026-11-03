@@ -1,0 +1,20 @@
+
+CANTIDADES VENDIDAS POR PRODUCTO: 
+Martillo 2 cantidades.
+Broca del 15 0 cantidades.
+Sierra manual 0 cantidades.
+Cuerda 0 cantidades.
+Caja de herramientas 0 cantidades.
+Destornillador 2 cantidades.
+Taladro 1 cantidades.
+Sierra circular 1 cantidades.
+Pintura 2 cantidades.
+Cepillo eléctrico 1 cantidades.
+Lijadora 2 cantidades.
+Herramienta multiusos 3 cantidades.
+Tornillo 20 cantidades.
+Clavo 4 cantidades.
+Serrucho 7 cantidades.
+Llave inglesa 1 cantidades.
+Cinta métrica 1 cantidades.
+

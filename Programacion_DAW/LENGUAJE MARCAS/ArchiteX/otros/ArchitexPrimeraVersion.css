@@ -1,0 +1,97 @@
+/*** Reseteo de Propiedades ***/
+* {
+    box-sizing: border-box;/*** Esto es para que si hay padding y border se incluya dentro del calculo (no se salga si pongo el % ajustado sin tener que tener en cuenta bordes)***/
+}
+
+/*** BODY ***/
+body {
+    background-color: #1f4677;
+    margin: 6px auto;
+}
+
+
+/*** NAVEGACION ***/
+nav {
+    height: 60px;
+    margin: 0px 2%;
+    text-align: center;
+    background-image: url(images/bluePrintPaper.png);
+    position: sticky;
+    top: 1%;
+}
+nav li {
+    display: inline-block;
+    font-size: 160%;
+    margin: 0px 1%;
+    padding: 0px 1%;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: #1f4677;
+    font-weight: bold;
+}
+
+
+/*** HEADER ***/
+header {
+    height: 200px;
+    margin: 0px 2%;
+    background: #d2e1f6 ;
+    padding-left: 3%;
+}
+header h1{
+    padding-top: 2%;
+}
+#logo {
+    float: right;
+}
+
+
+/*** ASIDE ***/
+aside {
+    border-right: solid 6px #1f4677 ;
+    background: #ffffff;
+    width: 22%;
+    margin: 1%;
+    
+}
+aside, #principal {  /*Propiedades comunes a ASIDE y SECTION Principal*/
+    display: inline-block;
+    padding: 1% 2%;
+}
+#parteCentral{  /*CAJA QUE ENGLOBA ASIDE Y SECTION principal*/
+    background: #ffffff;
+    margin: 0px 2%;
+    clear: both;
+}
+
+/*** SECTION ***/
+#principal { /*SECTION CON 2 ARTICULOS*/
+    background: #ffffff;
+    width: 67%;
+    float: right;
+
+}
+h2 {
+    color: #1f4677;
+}
+
+
+/*** FOOTER ***/
+footer {
+    clear: left; 
+    min-height: 180px;
+    margin: 0px 2%;
+    background: #d2e1f6 ;
+    border: 1px solid red;
+}
+h4 {
+    font-size: large;
+}
+footer section {
+    float: left;
+    width: 24%;
+    padding: 0px 0px 0px 2px;
+    border: 1px solid orange;
+    text-align: left;
+}

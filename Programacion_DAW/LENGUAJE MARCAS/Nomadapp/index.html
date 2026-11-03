@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/index.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>NomadApp</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="homelink">
+            <h1 class="logo">NomadApp</h1>
+        </a>
+
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbutton">
+                <i class="fa-solid fa-bars"></i>
+            </label>
+
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Anuncios</a>
+                                
+                <!-- start menu desplegable -->
+                <ul>
+                    <li><a href="#">Vans</a></li>
+                    <li><a href="#">Caravaning</a></li>
+                    <li><a href="#">Overland</a></li>
+                    <li><a href="#">Accesorios</a></li>
+                </ul>
+                <!-- end menu desplegable -->
+                </li>
+
+                <li><a href="">Contacto</a></li>
+                <li><a href="pages/login.html" class="user">
+                    <i class="fa-solid fa-user"></i>
+                </a></li>
+            </ul>
+        </nav>
+
+        <article id="barra"> <!--Barra de busqueda-->
+
+            <img id="lupa" src="images/lupa.png">
+            <p>Search...</p>
+
+        </article>
+    </header>
+    
+
+    <section id="Portada">
+        <h1>Bienvenido a NomadApp</h1>
+    </section>
+
+
+    <section id="Quienes_somos">
+        <h2>¿Quienes somos?</h2>
+        <p>En NomadApp queremos que encuentres la furgo o caravana que buscas tal y como te gustaria que fuera</p>
+        <p>¡sin complicaciones!</p>
+    </section>
+
+
+    <section id="Opiniones">
+        <h4>Miles de aventureros han encontrado el vehículo de sus sueños en NomadApp</h4>
+
+        <article class="opinion">
+            <img class="comillas" src="images/comillas.png"/>
+            <h5>Alexia García</h5>
+            <p>“Despues de mucho tiempo buscando encontramos justo lo que buscabamos y estamos encandos."</p>
+        </article>
+
+        <article class="opinion">
+            <img class="comillas" src="images/comillas.png"/>
+            <h5>David Moreno</h5>
+            <p>"Vendi mi furgo para pasar a una mas grande y despues de venderla aquí, ahora se que esta en buenas manos."</p>
+        </article>
+
+        <article class="opinion">
+            <img class="comillas" src="images/comillas.png"/>
+            <h5>María Fuentes</h5>
+            <p>“Queria pasarme al 4x4 y cambiar de forma de viajar, aqui encontre montones de opciones diferentes”</p>
+        </article>
+    </section>
+
+
+    <section id="Categorias">
+        <a href="">
+        <article id="CabeceraCat">
+            <h2>¿Que buscas?</h2>
+            <p>Filtra entre miles de productos</p>
+        </article>
+
+        <a href="">
+        <article class="cat" id="cat1">
+            <img id="cat1" src="images/Vans.png"/>
+            <h4>Vans</h4>
+            <p>Furgones comerciales, furgos de serie, camperizadas...</p>
+        </article></a>
+
+        <a href="">
+        <article class="cat" id="cat2">
+            <img src="images/Caravaning.jpg"/>
+            <h4>Caravaning</h4>
+            <p>Caravanas y autocaravanas, integrales, capuchinas...</p>
+        </article></a>
+
+        <a href="">
+        <article class="cat" id="cat3">
+            <img src="images/Overland.jpg"/>
+            <h4>Overland</h4>
+            <p>Todoterrenos y vehículos preparados para cruzar el mundo</p>
+        </article></a>
+
+        <a href="">
+        <article class="cat" id="cat4">
+            <img src="images/Accesorios.jpg"/>
+            <h4>Accesorios</h4>
+            <p>Todo lo que llevas en tu vehiculo camper</p>
+        </article></a>
+    </section>
+
+
+    <section id="Destacados">
+        <section id="cabeceraDest">
+            <h2>Anuncios destacados</h2>
+        </section>
+
+        <section id="gris">
+            <a href="#" class="anuncio">
+            <article>
+                <img src="images/furgo1.jpeg"/>
+                <p>Transporter T5 4Motion</p>
+                <p>11.000 €</p>
+            </article></a>
+
+            <a href="#" class="anuncio">
+            <article>
+                <img src="images/furgo2.jpeg"/>
+                <p>Fiat Ducato L2H2</p>
+                <p>15.000 €</p>
+            </article></a>
+
+            <a href="#" class="anuncio">
+            <article>
+                <img src="images/furgo3.jpeg"/>
+                <p>VW T1 Kombi</p>
+                <p>28.000 €</p>
+            </article></a>
+
+            <a href="#" class="anuncio">
+            <article>
+                <img src="images/furgo4.jpeg"/>
+                <p>Ford Transit Nugget</p>
+                <p>21.000 €</p>
+            </article></a>
+        </section>
+    </section>
+
+
+    <footer>
+        <article>
+            <h2 id="logo">NomadApp</h2>
+            <p>©2022 por NomadApp.</p>
+        </article>
+
+        <article>
+            <ul>
+                <li><a href="">Quienes somos</a></li>
+                <li><a href="">Preguntas frecuentes</a></li>
+            </ul>
+        </article>
+
+        <article>
+            <ul>
+                <li><a href="">Condiciones de Uso</a></li>
+                <li><a href="">Reglas de publicación</a></li>  
+            </ul>
+        </article>
+
+        <article>
+            <a href="#">hlopdia699@g.educaand.es</a>
+            <section id="redes">
+                <img src="images/redes.png" alt="Enlace a RR.SS.">
+            </section>
+        </article>
+    </footer>
+    
+</body>
+</html>

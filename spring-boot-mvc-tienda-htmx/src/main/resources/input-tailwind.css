@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply font-mono;
+}
+
+.btn {
+    @apply font-bold w-32 h-12 py-3 px-5 items-center rounded-full shadow-2xl cursor-pointer;
+}
+
+.btn-blue {
+    @apply text-white bg-gradient-to-br from-blue-400 to-blue-600;
+}
+
+.btn-blue:hover {
+    @apply from-blue-600 to-blue-900;
+}
+
+.btn-red {
+    @apply text-red-600 border border-red-600;
+}
+
+.btn-red:hover {
+    @apply text-black bg-gradient-to-br from-red-50 to-red-100;
+}
+
+.hover-fila:hover {
+    @apply shadow-[6px_8px_38px_-11px_rgba(71,_135,_173,_0.65)]
+}

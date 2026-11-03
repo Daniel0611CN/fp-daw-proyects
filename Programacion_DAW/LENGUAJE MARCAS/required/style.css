@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+input:required {
+    background-color: lightcoral;
+    }
+    input:optional {
+    background-color: lightgoldenrodyellow;
+    }
+    input#enviar {
+    background: none;
+}
+
+input:focus {
+    outline: solid 3px green;
+    outline-offset: 2px;
+}

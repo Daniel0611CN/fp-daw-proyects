@@ -1,0 +1,18 @@
+
+Pintura (cod: 5): 2 cantidades
+Llave inglesa (cod: 12): 1 cantidades
+Herramienta multiusos (cod: 8): 3 cantidades
+Destornillador (cod: 2): 2 cantidades
+Martillo (cod: 1): 2 cantidades
+Caja de herramientas (cod: 205): 0 cantidades
+Taladro (cod: 3): 1 cantidades
+Clavo (cod: 10): 4 cantidades
+Tornillo (cod: 9): 20 cantidades
+Cepillo eléctrico (cod: 6): 1 cantidades
+Cinta métrica (cod: 13): 1 cantidades
+Cuerda (cod: 204): 0 cantidades
+Sierra circular (cod: 4): 1 cantidades
+Broca del 15 (cod: 202): 0 cantidades
+Sierra manual (cod: 203): 0 cantidades
+Lijadora (cod: 7): 2 cantidades
+Serrucho (cod: 11): 7 cantidades

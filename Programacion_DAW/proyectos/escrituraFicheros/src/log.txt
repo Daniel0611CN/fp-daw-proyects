@@ -1,0 +1,8 @@
+28/04/2023 13:23:28 - INFORMACION : Se ha escritoHola soy hector
+28/04/2023 13:23:33 - INFORMACION : Se ha escritoestoy escribiendo 
+28/04/2023 13:23:37 - INFORMACION : Se ha escritodesde la consola de java
+28/04/2023 13:23:42 - INFORMACION : Se ha escritoen un fichero nuevo
+28/04/2023 13:23:43 - INFORMACION : Se ha escritoadios
+28/04/2023 13:24:52 - INFORMACION : Se ha escrito: hola otra vez
+28/04/2023 13:24:55 - INFORMACION : Se ha escrito: probando formato
+28/04/2023 13:24:58 - INFORMACION : Se ha escrito: adios

@@ -1,0 +1,235 @@
+ - - - - - LISTA DE EVENTOS GRATIS EN CP: 28009 (CSV) - - - - - 
+número de eventos listados en el fichero: 58
+[
+
+id: 11958859 - Actividad: 4 patas tiene un cuento
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=551ae0edbf72d710VgnVCM2000001f4a900aRCRD, 
+
+id: 11948971 - Actividad: 58 Premio Reina Sof�a.
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11913908 - Actividad: Abriendo el coraz�n: amor, compasi�n
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11965041 - Actividad: Antonio Lo Riso
+gratis: SI - CP: 28009
+Enlace:  Victoria Ru�z, 
+
+id: 11724768 - Actividad: �rboles de El Retiro
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=e7b01130a93b1810VgnVCM1000001d4a900aRCRD, 
+
+id: 11896733 - Actividad: Ben�n, la antigua Dahomey y la ruta de esclavos
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=77a9114bd85a5810VgnVCM2000001f4a900aRCRD, 
+
+id: 11913903 - Actividad: Bondad innata
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11946620 - Actividad: Brigitte.
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11802180 - Actividad: Ciclo 'El traductor, primer lector'
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=92676f20a6d93810VgnVCM1000001d4a900aRCRD, 
+
+id: 11802179 - Actividad: Ciclo 'El traductor, primer lector'
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=92676f20a6d93810VgnVCM1000001d4a900aRCRD, 
+
+id: 11851662 - Actividad: Ciencia en Casa de Fieras
+gratis: SI - CP: 28009
+Enlace: 9/3/2023, 
+
+id: 11923714 - Actividad: Clownti
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11896731 - Actividad: Costa de Marfil y Ghana: viaje por �frica Centro-Occidental
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=77a9114bd85a5810VgnVCM2000001f4a900aRCRD, 
+
+id: 11958035 - Actividad: Cuarto Sal�n literario Pilar de Valderrama. Vida, amor y poes�a
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=c511a0381aad6810VgnVCM1000001d4a900aRCRD, 
+
+id: 11769477 - Actividad: Descubre el Vivero de Estufas del Retiro
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=e7b01130a93b1810VgnVCM1000001d4a900aRCRD, 
+
+id: 11959954 - Actividad: El canto de la Sibila
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=b415bcbd6375d710VgnVCM1000001d4a900aRCRD, 
+
+id: 11944081 - Actividad: El Embrujo de Espa�a: La Cultura Norteamericana y el mundo hisp�nico, 1779-1939
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11913914 - Actividad: Entrelazamientos vitales: independencia, conexi�n
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11913906 - Actividad: Equilibrio emocional. Armon�a existencial
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11945789 - Actividad: Feria de Productores
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8ec9ad569c796810VgnVCM1000001d4a900aRCRD, 
+
+id: 11947263 - Actividad: Festival Primavera Literaria
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11958654 - Actividad: Filosof�a y edici�n.
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11834958 - Actividad: I encuentro de m�dicos escritores
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8b222fc39ad14810VgnVCM1000001d4a900aRCRD, 
+
+id: 11834975 - Actividad: I encuentro de m�dicos escritores
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8b222fc39ad14810VgnVCM1000001d4a900aRCRD, 
+
+id: 11964281 - Actividad: IV Encuentro Coros Femeninos de la Comunidad de Madrid
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=7bdf0312c54b7710VgnVCM1000001d4a900aRCRD, 
+
+id: 11945813 - Actividad: Jornada de intercambio de semillas
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8ec9ad569c796810VgnVCM1000001d4a900aRCRD, 
+
+id: 11912868 - Actividad: Judit Neddermann - Retiro
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=87309fa18c606810VgnVCM1000001d4a900aRCRD, 
+
+id: 11922862 - Actividad: Kukuryku
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11966061 - Actividad: La pintura, una realidad.
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11913919 - Actividad: La verdadera sabidur�a: iluminar instantes
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11944488 - Actividad: Las Sinsombrero en el Retiro
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11962061 - Actividad: Mujeres empoderadas que empoderan
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2b1ce5b9bb9e6810VgnVCM1000001d4a900aRCRD, 
+
+id: 11962060 - Actividad: Novecento
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=6a768ee047ae6810VgnVCM2000001f4a900aRCRD, 
+
+id: 11951229 - Actividad: Pajarico pintado
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11955417 - Actividad: Pasi�n fracasada
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=601c625b0f0cc710VgnVCM2000001f4a900aRCRD, 
+
+id: 11922900 - Actividad: Pasitos - Okarino Trapisonda (Madrid)
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11922500 - Actividad: Polichinela. El Retablo (Madrid)
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11945820 - Actividad: Reparto de �rboles ornamentales
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8ec9ad569c796810VgnVCM1000001d4a900aRCRD, 
+
+id: 11601947 - Actividad: Senda 'Descubriendo los �rboles del Retiro' y taller de semilleros.
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=52a51aca68e64610VgnVCM1000001d4a900aRCRD, 
+
+id: 11940544 - Actividad: Senda 'Los �rboles aut�ctonos en el parque del Retiro'
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=612045b6b1d49610VgnVCM2000001f4a900aRCRD, 
+
+id: 11958553 - Actividad: Sr. Nadie
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=b8a61babb9b36810VgnVCM2000001f4a900aRCRD, 
+
+id: 11939884 - Actividad: Taller 'El mundo de los �rboles': Identificaci�n de �rboles y elaboraci�n de bombas de semillas
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=52e6f2c8c3a86710VgnVCM1000001d4a900aRCRD, 
+
+id: 11945810 - Actividad: Talleres familiares
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8ec9ad569c796810VgnVCM1000001d4a900aRCRD, 
+
+id: 11887903 - Actividad: Tertulia Literaria Hispanoamericana Rafael Montesinos
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11887905 - Actividad: Tertulia Literaria Hispanoamericana Rafael Montesinos
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11887901 - Actividad: Tertulia Literaria Hispanoamericana Rafael Montesinos
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a8fd607658d55810VgnVCM1000001d4a900aRCRD, 
+
+id: 11896732 - Actividad: Togo: una ruta etnogr�fica diferente
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=77a9114bd85a5810VgnVCM2000001f4a900aRCRD, 
+
+id: 11907587 - Actividad: Torneo de Cat�n en la Biblioteca Eugenio Tr�as
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=16ec24b59b3e5810VgnVCM2000001f4a900aRCRD, 
+
+id: 11964427 - Actividad: Trashumancia y c�as pecuarias: corredores vivos que conectan territorio.
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=7ed85eaddd574810VgnVCM1000001d4a900aRCRD, 
+
+id: 11913910 - Actividad: Tu paz: silencio y quietud
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2eeb02f785306810VgnVCM1000001d4a900aRCRD, 
+
+id: 11951360 - Actividad: Vida, amor y poes�a
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11940582 - Actividad: Visita a los Jardines de los Palacios de la Finca de Vista Alegre
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=80d710adf5f47610VgnVCM1000001d4a900aRCRD, 
+
+id: 11938315 - Actividad: 'Ef�mero mosaico' de Antonio Portillo
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11963404 - Actividad: 'Futuro en tu pasado. Clinch y l�grimas', de Miriam P. Herranz
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11956824 - Actividad: 'La curva', de Miguel Velayos y Javier Crist�bal
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=3a70dbe8d6bc6810VgnVCM2000001f4a900aRCRD, 
+
+id: 11953385 - Actividad: �Qu� viva la estulticia!
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=91d5b5c2080c6810VgnVCM1000001d4a900aRCRD, 
+
+id: 11908599 - Actividad: �Uh! �Qu� le cuento?
+gratis: SI - CP: 28009
+Enlace: sin información, 
+
+id: 11938208 - Actividad: �C�mo puede cambiar nuestra vida los vertiginosos avances en inteligencia artificial?
+gratis: SI - CP: 28009
+Enlace: http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=b94bfa4b19f73810VgnVCM1000001d4a900aRCRD]

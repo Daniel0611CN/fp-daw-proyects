@@ -1,0 +1,15 @@
+<div
+        hx-target="this" hx-swap="outerHTML"
+        class="flex flex-row flex-wrap items-center h-16 hover-fila"
+        th:each="fabricante : ${pagina.listado}">
+    <div class="basis-1/3" th:text="${fabricante.codigo}">Código</div>
+    <div class="basis-1/3" th:text="${fabricante.nombre}">Nombre</div>
+    <div class="basis-1/3 flex items-center justify-center">
+        <button th:hx-get="@{/htmx/fabricantes/editar/}+${fabricante.codigo}"
+                class="mx-0.5 btn btn-blue"
+                hx-indicator="#indicator">Editar</button>
+        <button th:hx-get="@{/htmx/fabricantes/borrar/__${fabricante.codigo}__(numPag=${pagina.numeroDePagina},tamPag=${pagina.tamanio})}"
+                class="mx-0.5 btn btn-red"
+                hx-indicator="#indicator">Eliminar</button>
+    </div>
+</div>

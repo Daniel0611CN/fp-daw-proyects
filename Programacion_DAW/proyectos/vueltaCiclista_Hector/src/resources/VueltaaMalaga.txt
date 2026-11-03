@@ -1,0 +1,114 @@
+
+==== NOMBRE DE LA CARRERA ====
+
+	Vuelta a Malaga
+
+
+==== CICLISTAS PARTICIPANTES EN LA CARRERA ====
+1 - Chris Froome (TEIN) : 0s
+2 - Egan Bernal (TEIN) : 0s
+3 - Geraint Thomas (TEIN) : 0s
+4 - Richard Carapaz (TEIN) : 0s
+5 - Michal Kwiatkowski (TEIN) : 0s
+6 - Gianni Moscon (TEIN) : 0s
+7 - Luke Rowe (TEIN) : 0s
+8 - Tao Geoghegan Hart (TEIN) : 0s
+9 - Julian Alaphilippe (DEQU) : 0s
+10 - Mark Cavendish (DEQU) : 0s
+11 - Remco Evenepoel (DEQU) : 0s
+12 - Zdenek Stybar (DEQU) : 0s
+13 - Kasper Asgreen (DEQU) : 0s
+14 - Fabio Jakobsen (DEQU) : 0s
+15 - Yves Lampaert (DEQU) : 0s
+16 - Bob Jungels (DEQU) : 0s
+17 - Peter Sagan (BOHA) : 0s
+18 - Emmanuel Buchmann (BOHA) : 0s
+19 - Lennard Kämna (BOHA) : 0s
+20 - Emanuel Buchmann (BOHA) : 0s
+21 - Felix Großschartner (BOHA) : 0s
+22 - Wilco Kelderman (BOHA) : 0s
+23 - Giovanni Aleotti (BOHA) : 0s
+24 - Maximilian Schachmann (BOHA) : 0s
+25 - Ben O'Connor (AGLA) : 0s
+26 - Aurélien Paret-Peintre (AGLA) : 0s
+27 - Bob Jungels (AGLA) : 0s
+28 - Clement Champoussin (AGLA) : 0s
+29 - Stan Dewulf (AGLA) : 0s
+30 - Caleb Ewan (LOSO) : 0s
+31 - John Degenkolb (LOSO) : 0s
+32 - Philippe Gilbert (LOSO) : 0s
+33 - Thomas De Gendt (LOSO) : 0s
+34 - Tim Wellens (LOSO) : 0s
+35 - Rigoberto Uran (EFED) : 0s
+36 - Michael Woods (EFED) : 0s
+37 - Magnus Cort (EFED) : 0s
+38 - Sergio Higuita (EFED) : 0s
+39 - Lachlan Morton (EFED) : 0s
+
+
+
+==== CLASIFICACIÓN FINAL ====
+1 - Chris Froome (TEIN) : 50s
+10 - Mark Cavendish (DEQU) : 51s
+35 - Rigoberto Uran (EFED) : 53s
+7 - Luke Rowe (TEIN) : 57s
+16 - Bob Jungels (DEQU) : 60s
+21 - Felix Großschartner (BOHA) : 60s
+28 - Clement Champoussin (AGLA) : 62s
+3 - Geraint Thomas (TEIN) : 63s
+29 - Stan Dewulf (AGLA) : 63s
+9 - Julian Alaphilippe (DEQU) : 65s
+18 - Emmanuel Buchmann (BOHA) : 65s
+12 - Zdenek Stybar (DEQU) : 66s
+23 - Giovanni Aleotti (BOHA) : 66s
+5 - Michal Kwiatkowski (TEIN) : 67s
+19 - Lennard Kämna (BOHA) : 67s
+33 - Thomas De Gendt (LOSO) : 68s
+34 - Tim Wellens (LOSO) : 68s
+15 - Yves Lampaert (DEQU) : 69s
+17 - Peter Sagan (BOHA) : 69s
+38 - Sergio Higuita (EFED) : 69s
+11 - Remco Evenepoel (DEQU) : 71s
+4 - Richard Carapaz (TEIN) : 72s
+20 - Emanuel Buchmann (BOHA) : 74s
+22 - Wilco Kelderman (BOHA) : 74s
+13 - Kasper Asgreen (DEQU) : 76s
+2 - Egan Bernal (TEIN) : 77s
+6 - Gianni Moscon (TEIN) : 77s
+8 - Tao Geoghegan Hart (TEIN) : 77s
+14 - Fabio Jakobsen (DEQU) : 77s
+24 - Maximilian Schachmann (BOHA) : 77s
+25 - Ben O'Connor (AGLA) : 77s
+26 - Aurélien Paret-Peintre (AGLA) : 77s
+27 - Bob Jungels (AGLA) : 77s
+30 - Caleb Ewan (LOSO) : 77s
+31 - John Degenkolb (LOSO) : 77s
+32 - Philippe Gilbert (LOSO) : 77s
+36 - Michael Woods (EFED) : 77s
+37 - Magnus Cort (EFED) : 77s
+39 - Lachlan Morton (EFED) : 77s
+
+
+
+=========== PODIUM ====================
+Puesto 1: 1 - Chris Froome (TEIN) : 50s
+Puesto 2: 10 - Mark Cavendish (DEQU) : 51s
+Puesto 3: 35 - Rigoberto Uran (EFED) : 53s
+
+
+
+==== CLASIFICACIÓN POR EQUIPOS ====
+1: Team Ineos (TEIN) - país: Gbr 35M€	 tiempo acumulado: 170s
+2: Deceuninck - Quick-Step (DEQU) - país: Bel 28M€	 tiempo acumulado: 176s
+3: Bora - Hansgrohe (BOHA) - país: Deu 23M€	 tiempo acumulado: 191s
+4: EF Education First (EFED) - país: USA 13M€	 tiempo acumulado: 199s
+5: AG2R La Mondiale (AGLA) - país: Fra 20M€	 tiempo acumulado: 202s
+6: Lotto Soudal (LOSO) - país: Bel 18M€	 tiempo acumulado: 213s
+
+
+
+==== POSICIÓN DEL CORREDOR: Wilco Kelderman(BOHA) Dorsal: 22 ====
+
+Corredor con dorsal 22: 22 - Wilco Kelderman (BOHA) : 74s
+
+Posición final del corredor: 23

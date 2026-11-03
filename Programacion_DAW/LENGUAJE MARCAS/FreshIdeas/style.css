@@ -1,0 +1,266 @@
+/*** Reseteo de Propiedades ***/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/****** LAYOUT  ******/
+/*************** display/position/float ***************/
+
+/********** height/width/padding/border/margin **********/
+
+
+/********** DIV CAJA CENTRAL ***********/
+#cajacentral{
+    overflow: hidden; /* esto es para que el Div central quede por debajo de las dos cajas flotadas main y aside */
+    max-width: 1240px;
+    min-width: 892px;
+    margin: auto;
+    padding: 2%;
+}
+
+/******* HEADER *********/
+#logo img{
+    max-width: 25%;
+}
+
+/******* NAV *******/
+nav{
+    float: right;
+    width: 50%;
+    margin: 2%;
+    padding: 0 2%;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 1.5%;
+    padding: 2% 1.2%;
+}
+
+/*** SECTION BANNER ***/
+#portada{
+    position: relative;
+    top: 1em;
+    margin-bottom: 5%;
+}
+#textoPortada{
+    position: absolute;
+    top: 70px;
+    left: 10%;
+    width: 35%;
+    z-index: 50;
+}
+#readP{
+    padding: 2% 10%;
+}
+#banner{
+    width: 100%;
+}
+
+/***** MAIN ******/
+main{
+    float: left;
+    width: 63%;
+}
+section article img, #about{
+    float: left;
+    padding: 2%;
+}
+main p, aside p{
+    margin: 1% 0;
+}
+#about{
+    margin-top: .5%;
+}
+
+/***** ASIDE *****/
+aside{
+    float: right;
+    width: 33%;
+}
+aside article{
+    margin-top: 6%;
+    padding-bottom: 3%;
+}
+aside h2{
+    padding-bottom: 4%;
+}
+aside article h3{
+    float: left;
+    margin-right: 16%;
+    margin-bottom: 3%;
+}
+aside time{
+    padding: 1%;
+}
+aside p{
+    clear: both;
+}
+aside img{
+    width: 100%;
+    margin-top: 5%;
+    padding: 3%;
+}
+
+/***** FOOTER *****/
+footer{
+    position: relative;
+    height: 80px;
+    clear: both;
+}
+#footer1{
+    position: absolute;
+    top: 30px;
+    left: 20%;
+}
+#footer2{
+    position: absolute;
+    top: 30px;
+    right: 20%;
+}
+
+
+/************************* Propiedades Generales *********************/
+a:link, a:visited, a:active{  /*a:link, a:visited, a:active*/
+    text-decoration: none;
+}
+h1, h2{
+    border-bottom: 1px black dashed;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+.read{
+    color: black;
+    font-weight: bold;
+}
+
+
+/*** BODY ***/
+body{
+    background-image: url(images/bg.png);
+}
+#cajacentral{
+    background-color: white;
+}
+
+/************** HEADER *******************/
+
+
+/*** NAV ***/
+nav{
+    background-color: black;
+}
+nav a{
+    color: white;
+}
+nav ul :hover{
+    background-color: #ffcc33;
+}
+
+/*** SECTION BANNER ***/
+#banner{
+    border: #eaeaea solid 6px;
+}
+#textoPortada{
+    line-height: 180%;
+    font-size: large;
+}
+#textoPortada h1{
+    text-align: center;
+}
+#readP{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+section article img, #about{
+    border: #e1e1e1 1px solid;
+}
+
+/*** MAIN ***/
+main section{
+    margin-bottom: 5%;
+}
+.services article{
+    margin-bottom: 2%;
+    height: 135px;
+}
+
+/*** ASIDE ***/
+aside article{
+    border-bottom: 1px black dashed;
+}
+aside img{
+    border: #e1e1e1 1px solid;
+}
+aside time{
+    background-color: #ffcc33;
+    font-weight: bold;
+}
+
+/*** FOOTER ***/
+footer{
+    background-color: black;
+    color: white;
+}
+
+
+/********************* MEDIA QUERIES ***********************/
+
+@media (max-width: 1450px){ /***** PC no wide *****/
+
+    #footer1{
+        left: 18%;
+    }
+    #footer2{
+        right: 18%;
+    }
+}
+@media (max-width: 1170px){
+
+    nav{
+        margin-top: 3%;
+    }
+    nav ul li{
+        margin-left: 1.6%;
+        padding: 2% 0.7%;
+        font-size: 0.9em;
+    }
+    #about{
+        margin-bottom: 3%;
+    }
+}
+@media (max-width: 1000px){
+
+    body{
+        font-size: 0.9em;
+    }
+    #textoPortada{
+        font-size: 1em;
+    }
+    .services article{
+        margin: 2.4% 0%;
+    }
+    #about{
+        margin-bottom: 7%;
+    }
+    #footer1{
+        left: 16%;
+    }
+    #footer2{
+        right: 16%;
+    }
+}
+@media (max-width: 850px){
+
+    #footer1{
+        top: 20px;
+        left: 20%;
+    }
+    #footer2{
+        top: 50px;
+        left: 20%;
+    }
+}

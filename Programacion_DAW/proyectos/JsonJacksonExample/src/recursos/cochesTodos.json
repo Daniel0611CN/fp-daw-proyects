@@ -1,0 +1,21 @@
+[ {
+  "marca" : "Volkswagen",
+  "modelo" : "Jetta",
+  "anioFabricacion" : 2003,
+  "precio" : 4500.0
+}, {
+  "marca" : "Dogde",
+  "modelo" : "Viper RT/10",
+  "anioFabricacion" : 2008,
+  "precio" : 120000.0
+}, {
+  "marca" : "Suzuki",
+  "modelo" : "Fuso",
+  "anioFabricacion" : 2015,
+  "precio" : 50000.0
+}, {
+  "marca" : "Renault",
+  "modelo" : "Megane",
+  "anioFabricacion" : 2019,
+  "precio" : 15000.0
+} ]

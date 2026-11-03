@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c399beb-7381-4adb-ab43-564baa14b56b" name="Changes" comment="Actualizaciones a la teoría de mockito">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/employee/EmployeeInMemoryRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/employee/EmployeeInMemoryRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/employee/EmployeeManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/employee/EmployeeManagerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Daniel0611CN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Daniel0611CN/pruebas_mockito.git&quot;,
+    &quot;accountId&quot;: &quot;9e4af42e-5871-4dc9-918e-23f7df295dba&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/5.11.0/mockito-core-5.11.0-sources.jar!/org/mockito/ArgumentMatchers.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2er4lv2Wzi9KZi4Y9JyIc0ubF3Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositoryFindAll.executor": "Run",
+    "JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveExistingEmployee.executor": "Run",
+    "JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveNewEmployee.executor": "Run",
+    "JUnit.EmployeeManagerTest.testArgumentMatcherExample.executor": "Run",
+    "JUnit.EmployeeManagerTest.testEmployeeSetPaidIsCalledAfterPaying.executor": "Run",
+    "JUnit.EmployeeManagerTest.testExampleOfArgumentCaptor.executor": "Run",
+    "JUnit.EmployeeManagerTest.testOtherEmployeesArePaidWhenBankServiceThrowsException.executor": "Run",
+    "JUnit.EmployeeManagerTest.testPayEmployeesInOrderWhenSeveralEmployeeArePresent.executor": "Run",
+    "JUnit.EmployeeManagerTest.testPayEmployeesReturnOneWhenOneEmployeeIsPresentAndBankServicePayPaysThatEmployee.executor": "Run",
+    "JUnit.EmployeeManagerTest.testPayEmployeesReturnZeroWhenNoEmployeesArePresent.executor": "Run",
+    "JUnit.EmployeeManagerTest.testPayEmployeesWhenBankServiceThrowsException.executor": "Run",
+    "JUnit.EmployeeManagerTest.testPayEmployeesWhenSeveralEmployeeArePresent.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/danic/IdeaProjects/Pruebas Mockito",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\IdeaProjects\proyecto_mockito\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.iesvdm.dominio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveExistingEmployee">
+    <configuration name="EmployeeInMemoryRepositoryTest.testEmployeeRepositoryFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyecto_mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvdm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvdm.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.employee.EmployeeInMemoryRepositoryTest" />
+      <option name="METHOD_NAME" value="testEmployeeRepositoryFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveExistingEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyecto_mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvdm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvdm.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.employee.EmployeeInMemoryRepositoryTest" />
+      <option name="METHOD_NAME" value="testEmployeeRepositorySaveExistingEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveNewEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyecto_mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvdm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvdm.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.employee.EmployeeInMemoryRepositoryTest" />
+      <option name="METHOD_NAME" value="testEmployeeRepositorySaveNewEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeManagerTest.testExampleOfInOrderWithTwoMocks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyecto_mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvdm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvdm.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.employee.EmployeeManagerTest" />
+      <option name="METHOD_NAME" value="testExampleOfInOrderWithTwoMocks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeManagerTest.testPayEmployeesWhenBankServiceThrowsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyecto_mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvdm.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvdm.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.employee.EmployeeManagerTest" />
+      <option name="METHOD_NAME" value="testPayEmployeesWhenBankServiceThrowsException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveExistingEmployee" />
+        <item itemvalue="JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositorySaveNewEmployee" />
+        <item itemvalue="JUnit.EmployeeInMemoryRepositoryTest.testEmployeeRepositoryFindAll" />
+        <item itemvalue="JUnit.EmployeeManagerTest.testExampleOfInOrderWithTwoMocks" />
+        <item itemvalue="JUnit.EmployeeManagerTest.testPayEmployeesWhenBankServiceThrowsException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c399beb-7381-4adb-ab43-564baa14b56b" name="Changes" comment="" />
+      <created>1712649524267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712649524267</updated>
+      <workItem from="1712649525551" duration="14189000" />
+      <workItem from="1712759577189" duration="4130000" />
+      <workItem from="1712820797394" duration="13021000" />
+      <workItem from="1712905273657" duration="2892000" />
+      <workItem from="1712940548762" duration="12792000" />
+      <workItem from="1713177366619" duration="8742000" />
+      <workItem from="1714113940204" duration="5400000" />
+      <workItem from="1714208790385" duration="105000" />
+      <workItem from="1714478197190" duration="131000" />
+      <workItem from="1714478571247" duration="325000" />
+      <workItem from="1714479229180" duration="1391000" />
+      <workItem from="1714496033921" duration="18000" />
+      <workItem from="1714670700272" duration="21000" />
+      <workItem from="1714670756059" duration="4594000" />
+      <workItem from="1714677877862" duration="8332000" />
+      <workItem from="1714716801316" duration="5188000" />
+      <workItem from="1714724870655" duration="16000" />
+      <workItem from="1714753425620" duration="1620000" />
+    </task>
+    <task id="LOCAL-00001" summary="inicial">
+      <option name="closed" value="true" />
+      <created>1712737096178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712737096178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="teoría de mockito">
+      <option name="closed" value="true" />
+      <created>1712822906809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712822906809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Actualizaciones a la teoría de mockito">
+      <option name="closed" value="true" />
+      <created>1712990083710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712990083710</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Actualizaciones a la teoría de mockito">
+      <option name="closed" value="true" />
+      <created>1713253920553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713253920554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inicial" />
+    <MESSAGE value="teoría de mockito" />
+    <MESSAGE value="Actualizaciones a la teoría de mockito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizaciones a la teoría de mockito" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/dominio/MockVsSpyTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

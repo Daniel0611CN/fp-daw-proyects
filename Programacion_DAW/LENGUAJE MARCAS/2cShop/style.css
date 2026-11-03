@@ -1,0 +1,221 @@
+/*** Reseteo de Propiedades ***/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;/*** Esto es para que si hay padding y border se incluya dentro del calculo (no se salga si pongo el % ajustado sin tener que tener en cuenta bordes)***/
+}
+
+
+/************ LAYOUT  *************/
+/************************ display/position/float **********************/
+nav li{
+    display: inline-block;
+}
+
+main{
+    float: right;
+}
+
+aside, main {  /*Propiedades comunes a ASIDE y SECTION Principal*/
+    display: inline-block;
+}
+
+.art{
+    display: inline-block;
+}
+
+#cards{
+    float: right;
+}
+
+footer{
+    clear: both;
+}
+
+/****************** height/width/padding/border/margin *******************/
+body{
+    margin: 2em 15%;
+}
+
+h1{
+    margin-bottom: 2%;
+}
+
+nav li{
+    padding: 1.4%;
+}
+
+header{
+    margin: 1% 0;
+    padding: 3%;
+}
+
+header h2{
+    margin-bottom: 2%;
+}
+
+aside{
+    width: 28%;
+    margin: 1% 0;
+}
+
+aside h4{
+    padding: 0.5em;
+}
+
+aside section{
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+aside section ul{
+    padding-left: 2em;
+}
+
+ul li{
+    padding-top: 2em;
+}
+
+main{
+    width: 71%;
+    margin: 1% 0;
+}
+
+h3{
+    padding: 1.1em;
+    margin-bottom: 1.8em;
+}
+
+.art{
+    width: 33%;
+    margin: 2% 7%;
+    padding: 1%;
+}
+
+.art p{
+    margin: 0.5em;
+}
+
+#main2 p{
+    margin-top: 1em;
+}
+
+footer{
+    padding: 1em;
+}
+
+
+
+
+/************************* Propiedades Generales *********************/
+a{  /*a:link, a:visited, a:active*/
+    text-decoration: none;
+    color: #1f4677;
+    font-weight: normal;
+}
+h1{
+    color: white;
+}
+h2{
+    font-weight: lighter;
+}
+h3, h4{
+    background-color: #ade4ea;
+}
+nav, header, aside, main, section, article, footer, h4, h3{
+    border-radius: 0.4em;
+}
+
+
+/********* BODY *********/
+body{
+    background-color: #ff7b2d;
+    font-family: Calibri, Tahoma, Verdana, Helvetica, sans-serif;
+}
+
+
+/********* NAV **********/
+nav{
+    background-color: #2e2e2e;    
+}
+nav li a{
+    text-decoration: none;
+    color: #ade4ea;
+    font-weight: bolder;
+}
+nav li :hover{
+    font-size: 110%;
+    background-color:#ade4ea;
+    color: #2e2e2e;
+}
+
+
+/*** HEADER ***/
+header{
+    background: linear-gradient(to bottom, #b7deed, #2bb8e5, #b7deed); 
+}
+header h3{
+    font-weight: 100;
+}
+header p{
+    color: #555752;
+    font-size: smaller;
+}
+
+
+/*** ASIDE ***/
+aside section ul li{
+    border-bottom: 1px #00a0bc dashed;
+    font-variant: small-caps;
+    font-size: smaller;
+}
+aside section ul{
+    color: #00a0bc;
+}
+li a{
+    color: black;
+}
+
+/*** SECTION (dentro del Aside) ***/
+section{
+    padding: 1em;
+    background-color: white;
+}
+
+
+/******** MAIN *********/
+main{
+    background-color: white;
+}
+.art{
+    border: #00a0bc solid 1em;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.art p{
+    text-align: justify;
+}
+.art a{
+    color: #00a0bc;
+    text-decoration: underline;
+}
+#main2 p{
+    font-size: smaller;
+}
+
+
+/******** FOOTER *********/
+footer{
+    background-color: #2e2e2e;
+    text-align: end;
+}
+footer p{
+    color: white;
+}
+footer a{
+    color: #8d8d8d;
+    text-decoration: underline;
+}
+

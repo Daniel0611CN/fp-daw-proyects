@@ -1,0 +1,44 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<title>Fabricantes</title>
+	<link rel="stylesheet" href="/style.css"/>
+    <script src="https://unpkg.com/htmx.org@2.0.4/dist/htmx.js" integrity="sha384-oeUn82QNXPuVkGCkcrInrS1twIxKhkZiFfr2TdiuObZ3n3yIeMiqcRzkIcguaof1" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="container mx-auto px-4">
+		<div class="flex flex-row py-4 items-center">
+			<div class="basis-1/3 text-4xl">
+				<h1>Fabricantes</h1>
+			</div>
+			<div class="basis-1/3 flex">
+				<div id="indicator"
+					class="htmx-indicator inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-current border-e-transparent align-[-0.125em] text-surface motion-reduce:animate-[spin_1.5s_linear_infinite] dark:text-white"
+					role="status">
+					<img class="h-1.5 w-1.5" src="https://icons8.com/preloaders/preloaders/1488/Iphone-spinner-2.gif">
+					<span class="items-center !absolute !-m-px !h-px !w-px !overflow-hidden
+							!whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Cargando...</span>
+				</div>
+			</div>
+			<div id="btn_crear" hx-target="this" hx-swap-oob="true" class="basis-1/3 flex justify-center">
+				<button id="btn_crear"
+						th:hx-get="@{/htmx/fabricantes/crear}"
+						class="btn btn-blue float-right">Crear</button>
+			</div>
+		</div>
+		<div class="flex flex-row p-2 shadow-[6px_8px_38px_-11px_rgba(71,_135,_173,_0.65)]">
+			<div class="basis-1/2 sm:basis-1/3 text-2xl">Código</div>
+			<div class="basis-1/2 sm:basis-1/3 text-2xl">Nombre</div>
+			<div class="hidden sm:block sm:basis-1/3 text-center text-2xl justify-center">Acción</div>
+		</div>
+		<div id="crear-form" hx-swap-oob="true" class="hidden"></div>
+		<div th:replace="~{htmx/fragmento/fila-fabricante.html}">
+			Fila fabricante
+		</div>
+		<div th:replace="~{htmx/fragmento/paginador.html}">
+			Paginador..
+		</div>
+	</div>
+</body>
+</html>.
