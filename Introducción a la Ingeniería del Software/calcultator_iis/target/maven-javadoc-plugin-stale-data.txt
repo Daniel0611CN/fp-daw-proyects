@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/danic/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/danic/IdeaProjects/iis26/calculator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danic/IdeaProjects/iis26/calculator/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculator 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'calculator 1.0-SNAPSHOT API'
+org.iis.ajnebro
+C:\Users\danic\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar = 1772022976844
+C:\Users\danic\IdeaProjects\iis26\calculator\src\main\java = 1771921330955
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allclasses-index.html = 1772479789988
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\allpackages-index.html = 1772479789992
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\element-list = 1772479789923
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\help-doc.html = 1772479790031
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index-all.html = 1772479790017
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\index.html = 1772479790025
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\member-search-index.js = 1772479789998
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\module-search-index.js = 1772479789994
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\overview-tree.html = 1772479789967
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\package-search-index.js = 1772479789995
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\search.html = 1772479790022
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\tag-search-index.js = 1772479790000
+C:\Users\danic\IdeaProjects\iis26\calculator\target\reports\apidocs\type-search-index.js = 1772479789997
